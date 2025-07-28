@@ -1,0 +1,39 @@
+# Dependencies
+node_modules/
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+.env.local
+.env.production.local
+
+# Production builds
+build/
+dist/
+
+# Data directories (contains scraped data)
+data/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS
+Thumbs.db
+
+# Python
+*.py[cod]
+*$py.class
+*.so
