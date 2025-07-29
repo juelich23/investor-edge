@@ -27,13 +27,51 @@ class SimpleEarningsScraper:
         """Get simplified earnings data using yfinance"""
         print(f"Fetching data for {ticker}...")
         
-        # Check cache first
-        cached_data = cache_manager.get_cached_data(ticker, "earnings_summary", cache_hours=24)
+        # Check cache first (extended cache time for production)
+        cached_data = cache_manager.get_cached_data(ticker, "earnings_summary", cache_hours=168)  # 7 days
         if cached_data:
             print(f"Using cached data for {ticker}")
             return cached_data
         
-        # Apply rate limiting
+        # Try alternative data fetcher first
+        from alternative_data import alt_fetcher
+        alt_data = alt_fetcher.get_stock_data(ticker)
+        
+        if alt_data:
+            # Build earnings summary from alternative data
+            content_parts = [
+                f"{alt_data.get('company', ticker)} Financial Overview",
+                f"Data as of: {datetime.now().strftime('%Y-%m-%d')}",
+                "",
+                "Company Metrics:",
+                f"Stock Price: ${alt_data.get('price', 0):.2f}",
+                f"Market Cap: ${alt_data.get('marketCap', 0):,.0f}" if alt_data.get('marketCap') else "Market Cap: N/A",
+                f"52-Week High: ${alt_data.get('fiftyTwoWeekHigh', 0):.2f}",
+                f"52-Week Low: ${alt_data.get('fiftyTwoWeekLow', 0):.2f}",
+                "",
+                "Trading Information:",
+                f"Previous Close: ${alt_data.get('previousClose', 0):.2f}",
+                f"Day Range: ${alt_data.get('dayLow', 0):.2f} - ${alt_data.get('dayHigh', 0):.2f}",
+                f"Volume: {alt_data.get('volume', 0):,}",
+                "",
+                "Valuation:",
+                f"P/E Ratio: {alt_data.get('pe', 'N/A')}"
+            ]
+            
+            result = {
+                "ticker": ticker,
+                "company": alt_data.get('company', ticker),
+                "quarter": f"Q{(datetime.now().month-1)//3 + 1} {datetime.now().year}",
+                "date": datetime.now().strftime("%Y-%m-%d"),
+                "content": "\n".join(content_parts),
+                "source": "alternative-data"
+            }
+            
+            # Save to cache
+            cache_manager.save_to_cache(ticker, "earnings_summary", result)
+            return result
+        
+        # Fallback to original method with rate limiting
         yfinance_limiter.wait_if_needed()
         
         try:

@@ -36,5 +36,5 @@ class RateLimiter:
             time.sleep(1)
         self.add_request(key)
 
-# Global rate limiter for yfinance
-yfinance_limiter = RateLimiter(max_requests=2, time_window=5)
+# Global rate limiter for yfinance - very conservative for production
+yfinance_limiter = RateLimiter(max_requests=1, time_window=10)
