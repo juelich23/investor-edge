@@ -3,6 +3,8 @@ from datetime import datetime, timedelta
 import pandas as pd
 from typing import Dict, List, Optional
 import json
+from rate_limiter import yfinance_limiter
+from cache_manager import cache_manager
 
 class ImprovedHistoricalScraper:
     def __init__(self):
@@ -10,6 +12,15 @@ class ImprovedHistoricalScraper:
         
     def get_historical_earnings(self, ticker: str) -> Dict:
         """Fetch historical earnings data combining multiple sources"""
+        # Check cache first
+        cached_data = cache_manager.get_cached_data(ticker, "historical", cache_hours=24)
+        if cached_data:
+            print(f"Using cached historical data for {ticker}")
+            return cached_data
+        
+        # Apply rate limiting
+        yfinance_limiter.wait_if_needed()
+        
         try:
             stock = yf.Ticker(ticker)
             
@@ -128,6 +139,9 @@ class ImprovedHistoricalScraper:
             # Calculate trends
             historical_data["analysis"] = self._calculate_trends(historical_data)
             
+            # Save to cache before returning
+            cache_manager.save_to_cache(ticker, "historical", historical_data)
+            
             return historical_data
             
         except Exception as e:
@@ -202,49 +216,8 @@ class ImprovedHistoricalScraper:
     
     def _get_fallback_data(self, ticker: str) -> Dict:
         """Generate sample historical data when real data is unavailable"""
-        import random
-        
-        base_revenue = random.uniform(10000, 100000)  # in millions
-        base_eps = random.uniform(1.0, 10.0)
-        
-        historical_data = {
-            "ticker": ticker,
-            "quarters": [],
-            "metrics": {
-                "revenue_trend": [],
-                "eps_trend": [],
-                "earnings_dates": []
-            }
-        }
-        
-        # Generate 8 quarters of data
-        for i in range(8):
-            date = datetime.now() - timedelta(days=90 * i)
-            growth_factor = 1 + (random.uniform(-0.1, 0.15) if i < 4 else random.uniform(-0.05, 0.1))
-            
-            quarter_data = {
-                "date": date.strftime("%Y-%m-%d"),
-                "quarter": self._format_quarter(date),
-                "revenue": base_revenue * (growth_factor ** i),
-                "earnings": base_revenue * 0.15 * (growth_factor ** i),  # 15% margin
-                "eps_actual": base_eps * (growth_factor ** i),
-                "eps_estimate": base_eps * (growth_factor ** i) * 0.98,  # Slight beat
-                "surprise_percent": random.uniform(-2, 5),
-                "price_on_date": 100 + (10 * i) + random.uniform(-5, 5)
-            }
-            
-            historical_data["quarters"].append(quarter_data)
-            historical_data["metrics"]["revenue_trend"].append({
-                "date": quarter_data["date"],
-                "value": quarter_data["revenue"]
-            })
-            historical_data["metrics"]["eps_trend"].append({
-                "date": quarter_data["date"],
-                "value": quarter_data["eps_actual"]
-            })
-        
-        historical_data["analysis"] = self._calculate_trends(historical_data)
-        return historical_data
+        from fallback_data import fallback_provider
+        return fallback_provider.get_historical_data(ticker)
     
     def save_historical_data(self, ticker: str, data: Dict):
         """Save historical data to JSON file"""

@@ -115,7 +115,9 @@ class SimpleEarningsScraper:
             
         except Exception as e:
             print(f"Error: {e}")
-            return self.get_enhanced_mock_data(ticker)
+            # Use fallback data provider
+            from fallback_data import fallback_provider
+            return fallback_provider.get_earnings_summary(ticker)
     
     def get_enhanced_mock_data(self, ticker: str) -> Dict:
         """Enhanced mock data when API fails"""
