@@ -6,6 +6,7 @@ from typing import Dict
 import time
 from cache_manager import cache_manager
 from rate_limiter import yfinance_limiter
+from fastapi import HTTPException
 
 class SimpleEarningsScraper:
     def __init__(self):
@@ -114,10 +115,8 @@ class SimpleEarningsScraper:
             return result
             
         except Exception as e:
-            print(f"Error: {e}")
-            # Use fallback data provider
-            from fallback_data import fallback_provider
-            return fallback_provider.get_earnings_summary(ticker)
+            print(f"Error fetching data for {ticker}: {e}")
+            raise HTTPException(status_code=503, detail=f"Unable to fetch real-time data for {ticker}. Please try again later.")
     
     def get_enhanced_mock_data(self, ticker: str) -> Dict:
         """Enhanced mock data when API fails"""

@@ -11,12 +11,9 @@ app = FastAPI(title="Investor Edge API")
 
 from config import settings
 
-# Create necessary directories on startup
-os.makedirs("../data/cache", exist_ok=True)
-os.makedirs("../data/summaries", exist_ok=True)
-os.makedirs("../data/transcripts", exist_ok=True)
-os.makedirs("../data/historical", exist_ok=True)
-os.makedirs("../data/analyses", exist_ok=True)
+# Run startup checks
+from startup import startup
+startup()
 
 app.add_middleware(
     CORSMiddleware,
@@ -88,8 +85,11 @@ async def get_transcript(ticker: str):
                 json.dump(transcript_data, f, indent=2)
                 
             return TranscriptResponse(**transcript_data)
+        except HTTPException:
+            raise
         except Exception as e:
-            raise HTTPException(status_code=404, detail=f"Unable to fetch transcript for {ticker}: {str(e)}")
+            print(f"Error fetching transcript for {ticker}: {e}")
+            raise HTTPException(status_code=503, detail=f"Real-time data temporarily unavailable. Please try again later.")
     
     with open(transcript_path, 'r') as f:
         data = json.load(f)
@@ -138,8 +138,11 @@ async def get_summary(ticker: str):
             with open(summary_path, 'w') as f:
                 json.dump(summary_data, f, indent=2)
                 
+        except HTTPException:
+            raise
         except Exception as e:
-            raise HTTPException(status_code=404, detail=f"Unable to fetch data for {ticker}: {str(e)}")
+            print(f"Error fetching data for {ticker}: {e}")
+            raise HTTPException(status_code=503, detail=f"Real-time data temporarily unavailable. Please try again later.")
     
     else:
         with open(summary_path, 'r') as f:

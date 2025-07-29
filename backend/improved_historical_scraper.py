@@ -146,7 +146,8 @@ class ImprovedHistoricalScraper:
             
         except Exception as e:
             print(f"Error fetching historical data for {ticker}: {e}")
-            return self._get_fallback_data(ticker)
+            from fastapi import HTTPException
+            raise HTTPException(status_code=503, detail=f"Unable to fetch historical data for {ticker}. Please try again later.")
     
     def _format_quarter(self, date) -> str:
         """Format date into quarter string (e.g., Q1 2024)"""
@@ -214,10 +215,6 @@ class ImprovedHistoricalScraper:
         
         return analysis
     
-    def _get_fallback_data(self, ticker: str) -> Dict:
-        """Generate sample historical data when real data is unavailable"""
-        from fallback_data import fallback_provider
-        return fallback_provider.get_historical_data(ticker)
     
     def save_historical_data(self, ticker: str, data: Dict):
         """Save historical data to JSON file"""
