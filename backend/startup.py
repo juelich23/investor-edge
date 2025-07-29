@@ -62,11 +62,16 @@ def startup():
     has_cache = check_cache_status()
     
     if not has_cache:
+        print("\n⚠️  No cache found. Initializing with default data...")
+        from init_cache import init_cache
+        init_cache()
+        has_cache = check_cache_status()
+    
+    if has_cache:
+        print("\n✅ Cache data available. Application ready.")
+    else:
         print("\n⚠️  WARNING: Running without cached data.")
         print("The application will fetch real-time data which may be rate-limited.")
-        print("For production use, run: python prefetch_data.py")
-    else:
-        print("\n✅ Cache data available. Application ready.")
     
     print("=====================================\n")
 
