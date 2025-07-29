@@ -4,6 +4,8 @@ import os
 from datetime import datetime
 from typing import Dict
 import time
+from cache_manager import cache_manager
+from rate_limiter import yfinance_limiter
 
 class SimpleEarningsScraper:
     def __init__(self):
@@ -23,6 +25,15 @@ class SimpleEarningsScraper:
     def get_earnings_summary(self, ticker: str) -> Dict:
         """Get simplified earnings data using yfinance"""
         print(f"Fetching data for {ticker}...")
+        
+        # Check cache first
+        cached_data = cache_manager.get_cached_data(ticker, "earnings_summary", cache_hours=24)
+        if cached_data:
+            print(f"Using cached data for {ticker}")
+            return cached_data
+        
+        # Apply rate limiting
+        yfinance_limiter.wait_if_needed()
         
         try:
             stock = yf.Ticker(ticker)
@@ -88,7 +99,7 @@ class SimpleEarningsScraper:
             else:
                 quarter = f"Q3 {current_date.year}"
             
-            return {
+            result = {
                 "ticker": ticker,
                 "company": company_name,
                 "quarter": quarter,
@@ -96,6 +107,11 @@ class SimpleEarningsScraper:
                 "content": "\n".join(content_parts),
                 "source": "yfinance-simple"
             }
+            
+            # Save to cache
+            cache_manager.save_to_cache(ticker, "earnings_summary", result)
+            
+            return result
             
         except Exception as e:
             print(f"Error: {e}")

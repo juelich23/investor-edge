@@ -11,6 +11,13 @@ app = FastAPI(title="Investor Edge API")
 
 from config import settings
 
+# Create necessary directories on startup
+os.makedirs("../data/cache", exist_ok=True)
+os.makedirs("../data/summaries", exist_ok=True)
+os.makedirs("../data/transcripts", exist_ok=True)
+os.makedirs("../data/historical", exist_ok=True)
+os.makedirs("../data/analyses", exist_ok=True)
+
 app.add_middleware(
     CORSMiddleware,
     allow_origins=[origin for origin in settings.allowed_origins if origin],
