@@ -1,0 +1,24 @@
+services:
+  # Backend API
+  - type: web
+    name: investor-edge-api
+    runtime: python
+    buildCommand: "pip install -r requirements.txt"
+    startCommand: "cd backend && uvicorn main:app --host 0.0.0.0 --port $PORT"
+    envVars:
+      - key: ANTHROPIC_API_KEY
+        sync: false
+      - key: ENVIRONMENT
+        value: production
+      - key: FRONTEND_URL
+        value: https://investor-edge.vercel.app
+    
+  # Static site for frontend (optional - can use Vercel instead)
+  - type: web
+    name: investor-edge-frontend
+    runtime: static
+    buildCommand: "cd frontend && npm install && npm run build"
+    staticPublishPath: ./frontend/build
+    envVars:
+      - key: REACT_APP_API_URL
+        value: https://investor-edge-api.onrender.com
