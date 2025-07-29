@@ -70,6 +70,10 @@ def startup():
         from init_transcript_cache import init_transcript_cache
         init_transcript_cache()
         
+        # Initialize historical data cache
+        from init_historical_cache import init_historical_cache
+        init_historical_cache()
+        
         has_cache = check_cache_status()
     
     if has_cache:

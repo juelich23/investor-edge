@@ -28,7 +28,8 @@ class ImprovedHistoricalScraper:
             earnings_dates = stock.earnings_dates
             if earnings_dates is None or earnings_dates.empty:
                 print(f"No earnings dates found for {ticker}")
-                return self._get_fallback_data(ticker)
+                from fastapi import HTTPException
+                raise HTTPException(status_code=503, detail=f"Historical data temporarily unavailable for {ticker}. Please try again later.")
             
             # Filter for past earnings only
             try:
@@ -41,7 +42,8 @@ class ImprovedHistoricalScraper:
             
             if past_earnings.empty:
                 print(f"No past earnings found for {ticker}")
-                return self._get_fallback_data(ticker)
+                from fastapi import HTTPException
+                raise HTTPException(status_code=503, detail=f"Historical data temporarily unavailable for {ticker}. Please try again later.")
             
             # Get income statement for revenue data
             income_stmt = stock.quarterly_income_stmt
