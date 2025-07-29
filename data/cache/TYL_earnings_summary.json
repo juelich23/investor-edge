@@ -1,0 +1,9 @@
+{
+  "ticker": "TYL",
+  "company": "Tyler Technologies",
+  "quarter": "Q3 2025",
+  "date": "2025-07-28",
+  "content": "Tyler Technologies Financial Overview\nData as of: 2025-07-28\n\nCompany Metrics:\nStock Price: $30.12\nMarket Cap: $38,829,251,365\n52-Week High: $39.15\n52-Week Low: $21.08\n\nValuation Metrics:\nP/E Ratio (TTM): 11.1\nForward P/E: 10.0\nPEG Ratio: 1.89\nPrice to Book: 4.4\n\nFinancial Performance:\nRevenue (TTM): $2,173,030,670\nRevenue Growth (YoY): 34.8%\nGross Margin: 27.2%\nOperating Margin: 18.4%\nNet Margin: 8.7%\n\nProfitability:\nReturn on Assets: 5.8%\nReturn on Equity: 20.3%\nProfit Margin: 8.7%\n\nTrading Information:\nBeta: 1.74\nDividend Yield: 3.11%\nPrevious Close: $29.51\nDay Range: $29.21 - $30.72\nVolume: 2,571,396\nAverage Volume: 33,464,808",
+  "source": "batch-cache",
+  "cached_at": "2025-07-28T21:15:02.723862"
+}

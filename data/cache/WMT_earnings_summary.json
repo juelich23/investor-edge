@@ -1,0 +1,9 @@
+{
+  "ticker": "WMT",
+  "company": "Walmart",
+  "quarter": "Q3 2025",
+  "date": "2025-07-28",
+  "content": "Walmart Financial Overview\nData as of: 2025-07-28\n\nCompany Metrics:\nStock Price: $17038.78\nMarket Cap: $2,487,168,385,806\n52-Week High: $22150.42\n52-Week Low: $11927.15\n\nValuation Metrics:\nP/E Ratio (TTM): 18.0\nForward P/E: 16.2\nPEG Ratio: 1.62\nPrice to Book: 6.1\n\nFinancial Performance:\nRevenue (TTM): $393,420,240,235\nRevenue Growth (YoY): 42.9%\nGross Margin: 41.1%\nOperating Margin: 11.7%\nNet Margin: 9.7%\n\nProfitability:\nReturn on Assets: 20.1%\nReturn on Equity: 31.0%\nProfit Margin: 9.7%\n\nTrading Information:\nBeta: 2.20\nDividend Yield: 1.44%\nPrevious Close: $16698.01\nDay Range: $16527.62 - $17379.56\nVolume: 5,761,118\nAverage Volume: 40,220,287",
+  "source": "batch-cache",
+  "cached_at": "2025-07-28T21:15:02.656724"
+}

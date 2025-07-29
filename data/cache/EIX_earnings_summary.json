@@ -1,0 +1,9 @@
+{
+  "ticker": "EIX",
+  "company": "Edison International",
+  "quarter": "Q3 2025",
+  "date": "2025-07-28",
+  "content": "Edison International Financial Overview\nData as of: 2025-07-28\n\nCompany Metrics:\nStock Price: $1.47\nMarket Cap: $1,022,452,427\n52-Week High: $1.92\n52-Week Low: $1.03\n\nValuation Metrics:\nP/E Ratio (TTM): 6.1\nForward P/E: 5.5\nPEG Ratio: 0.79\nPrice to Book: 2.3\n\nFinancial Performance:\nRevenue (TTM): $388,839,544\nRevenue Growth (YoY): 46.3%\nGross Margin: 70.9%\nOperating Margin: 19.0%\nNet Margin: 8.2%\n\nProfitability:\nReturn on Assets: 16.2%\nReturn on Equity: 34.5%\nProfit Margin: 8.2%\n\nTrading Information:\nBeta: 0.54\nDividend Yield: 3.32%\nPrevious Close: $1.44\nDay Range: $1.43 - $1.50\nVolume: 30,600,859\nAverage Volume: 13,240,260",
+  "source": "batch-cache",
+  "cached_at": "2025-07-28T21:15:02.810614"
+}

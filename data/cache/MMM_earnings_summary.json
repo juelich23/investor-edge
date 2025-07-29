@@ -1,0 +1,9 @@
+{
+  "ticker": "MMM",
+  "company": "3M",
+  "quarter": "Q3 2025",
+  "date": "2025-07-28",
+  "content": "3M Financial Overview\nData as of: 2025-07-28\n\nCompany Metrics:\nStock Price: $34.72\nMarket Cap: $42,217,954,926\n52-Week High: $45.14\n52-Week Low: $24.31\n\nValuation Metrics:\nP/E Ratio (TTM): 49.9\nForward P/E: 44.9\nPEG Ratio: 3.35\nPrice to Book: 2.9\n\nFinancial Performance:\nRevenue (TTM): $4,139,527,003\nRevenue Growth (YoY): 39.8%\nGross Margin: 58.2%\nOperating Margin: 12.2%\nNet Margin: 3.2%\n\nProfitability:\nReturn on Assets: 1.6%\nReturn on Equity: 25.9%\nProfit Margin: 3.2%\n\nTrading Information:\nBeta: 1.66\nDividend Yield: 4.20%\nPrevious Close: $34.03\nDay Range: $33.68 - $35.42\nVolume: 4,433,399\nAverage Volume: 36,270,416",
+  "source": "batch-cache",
+  "cached_at": "2025-07-28T21:15:02.686981"
+}

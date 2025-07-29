@@ -1,0 +1,9 @@
+{
+  "ticker": "T",
+  "company": "AT&T",
+  "quarter": "Q3 2025",
+  "date": "2025-07-28",
+  "content": "AT&T Financial Overview\nData as of: 2025-07-28\n\nCompany Metrics:\nStock Price: $419.55\nMarket Cap: $1,663,257,138,839\n52-Week High: $545.41\n52-Week Low: $293.68\n\nValuation Metrics:\nP/E Ratio (TTM): 32.5\nForward P/E: 29.2\nPEG Ratio: 1.73\nPrice to Book: 5.8\n\nFinancial Performance:\nRevenue (TTM): $210,914,319,930\nRevenue Growth (YoY): 8.2%\nGross Margin: 60.7%\nOperating Margin: 45.1%\nNet Margin: 26.3%\n\nProfitability:\nReturn on Assets: 3.5%\nReturn on Equity: 12.7%\nProfit Margin: 26.3%\n\nTrading Information:\nBeta: 1.43\nDividend Yield: 0.79%\nPrevious Close: $411.16\nDay Range: $406.96 - $427.94\nVolume: 44,103,902\nAverage Volume: 39,321,996",
+  "source": "batch-cache",
+  "cached_at": "2025-07-28T21:15:02.669926"
+}

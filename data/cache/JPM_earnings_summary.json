@@ -1,0 +1,9 @@
+{
+  "ticker": "JPM",
+  "company": "JPMorgan Chase",
+  "quarter": "Q3 2025",
+  "date": "2025-07-28",
+  "content": "JPMorgan Chase Financial Overview\nData as of: 2025-07-28\n\nCompany Metrics:\nStock Price: $614.60\nMarket Cap: $1,107,587,899,940\n52-Week High: $798.98\n52-Week Low: $430.22\n\nValuation Metrics:\nP/E Ratio (TTM): 18.8\nForward P/E: 16.9\nPEG Ratio: 2.24\nPrice to Book: 4.4\n\nFinancial Performance:\nRevenue (TTM): $375,945,185,648\nRevenue Growth (YoY): 31.7%\nGross Margin: 73.0%\nOperating Margin: 20.4%\nNet Margin: 11.6%\n\nProfitability:\nReturn on Assets: 3.1%\nReturn on Equity: 24.6%\nProfit Margin: 11.6%\n\nTrading Information:\nBeta: 0.75\nDividend Yield: 3.62%\nPrevious Close: $602.31\nDay Range: $596.16 - $626.89\nVolume: 7,307,418\nAverage Volume: 47,262,992",
+  "source": "batch-cache",
+  "cached_at": "2025-07-28T21:15:02.656363"
+}

@@ -1,0 +1,9 @@
+{
+  "ticker": "EFX",
+  "company": "Equifax",
+  "quarter": "Q3 2025",
+  "date": "2025-07-28",
+  "content": "Equifax Financial Overview\nData as of: 2025-07-28\n\nCompany Metrics:\nStock Price: $0.24\nMarket Cap: $865,237,966\n52-Week High: $0.31\n52-Week Low: $0.17\n\nValuation Metrics:\nP/E Ratio (TTM): 44.9\nForward P/E: 40.4\nPEG Ratio: 3.12\nPrice to Book: 8.2\n\nFinancial Performance:\nRevenue (TTM): $90,838,275\nRevenue Growth (YoY): -16.8%\nGross Margin: 29.0%\nOperating Margin: 13.7%\nNet Margin: 5.8%\n\nProfitability:\nReturn on Assets: 28.6%\nReturn on Equity: 47.7%\nProfit Margin: 5.8%\n\nTrading Information:\nBeta: 2.40\nDividend Yield: 4.99%\nPrevious Close: $0.23\nDay Range: $0.23 - $0.24\nVolume: 1,606,087\nAverage Volume: 36,313,594",
+  "source": "batch-cache",
+  "cached_at": "2025-07-28T21:15:02.811347"
+}

@@ -1,0 +1,9 @@
+{
+  "ticker": "AMZN",
+  "company": "Amazon",
+  "quarter": "Q3 2025",
+  "date": "2025-07-28",
+  "content": "Amazon Financial Overview\nData as of: 2025-07-28\n\nCompany Metrics:\nStock Price: $2003.27\nMarket Cap: $1,770,620,675,856\n52-Week High: $2604.25\n52-Week Low: $1402.29\n\nValuation Metrics:\nP/E Ratio (TTM): N/A\nForward P/E: N/A\nPEG Ratio: 1.47\nPrice to Book: 1.5\n\nFinancial Performance:\nRevenue (TTM): $285,578,963,978\nRevenue Growth (YoY): 41.4%\nGross Margin: 17.8%\nOperating Margin: 12.2%\nNet Margin: 2.6%\n\nProfitability:\nReturn on Assets: 17.0%\nReturn on Equity: 15.5%\nProfit Margin: 2.6%\n\nTrading Information:\nBeta: 1.58\nDividend Yield: 2.89%\nPrevious Close: $1963.20\nDay Range: $1943.17 - $2043.33\nVolume: 47,361,046\nAverage Volume: 39,644,872",
+  "source": "batch-cache",
+  "cached_at": "2025-07-28T21:15:02.653892"
+}

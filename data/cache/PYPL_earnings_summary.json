@@ -1,0 +1,9 @@
+{
+  "ticker": "PYPL",
+  "company": "PayPal",
+  "quarter": "Q3 2025",
+  "date": "2025-07-28",
+  "content": "PayPal Financial Overview\nData as of: 2025-07-28\n\nCompany Metrics:\nStock Price: $13.32\nMarket Cap: $35,921,350,727\n52-Week High: $17.31\n52-Week Low: $9.32\n\nValuation Metrics:\nP/E Ratio (TTM): N/A\nForward P/E: N/A\nPEG Ratio: 3.22\nPrice to Book: 7.9\n\nFinancial Performance:\nRevenue (TTM): $5,763,215,331\nRevenue Growth (YoY): 9.3%\nGross Margin: 47.6%\nOperating Margin: 7.5%\nNet Margin: 6.6%\n\nProfitability:\nReturn on Assets: 5.8%\nReturn on Equity: 20.7%\nProfit Margin: 6.6%\n\nTrading Information:\nBeta: 1.18\nDividend Yield: 0.96%\nPrevious Close: $13.05\nDay Range: $12.92 - $13.58\nVolume: 2,500,643\nAverage Volume: 37,364,621",
+  "source": "batch-cache",
+  "cached_at": "2025-07-28T21:15:02.689214"
+}

@@ -1,0 +1,9 @@
+{
+  "ticker": "NVDA",
+  "company": "Nvidia",
+  "quarter": "Q3 2025",
+  "date": "2025-07-28",
+  "content": "Nvidia Financial Overview\nData as of: 2025-07-28\n\nCompany Metrics:\nStock Price: $92.28\nMarket Cap: $434,191,333,044\n52-Week High: $119.96\n52-Week Low: $64.59\n\nValuation Metrics:\nP/E Ratio (TTM): 17.4\nForward P/E: 15.6\nPEG Ratio: 1.31\nPrice to Book: 9.5\n\nFinancial Performance:\nRevenue (TTM): $377,379,511,771\nRevenue Growth (YoY): 23.5%\nGross Margin: 54.2%\nOperating Margin: 19.2%\nNet Margin: 1.6%\n\nProfitability:\nReturn on Assets: 19.0%\nReturn on Equity: 32.5%\nProfit Margin: 1.6%\n\nTrading Information:\nBeta: 2.31\nDividend Yield: 3.99%\nPrevious Close: $90.43\nDay Range: $89.51 - $94.12\nVolume: 6,244,197\nAverage Volume: 23,761,928",
+  "source": "batch-cache",
+  "cached_at": "2025-07-28T21:15:02.651543"
+}

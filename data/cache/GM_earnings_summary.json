@@ -1,0 +1,9 @@
+{
+  "ticker": "GM",
+  "company": "General Motors",
+  "quarter": "Q3 2025",
+  "date": "2025-07-28",
+  "content": "General Motors Financial Overview\nData as of: 2025-07-28\n\nCompany Metrics:\nStock Price: $20.74\nMarket Cap: $56,640,295,811\n52-Week High: $26.96\n52-Week Low: $14.52\n\nValuation Metrics:\nP/E Ratio (TTM): 37.4\nForward P/E: 33.6\nPEG Ratio: 3.34\nPrice to Book: 7.4\n\nFinancial Performance:\nRevenue (TTM): $4,781,689,691\nRevenue Growth (YoY): -7.8%\nGross Margin: 49.2%\nOperating Margin: 28.9%\nNet Margin: 15.5%\n\nProfitability:\nReturn on Assets: 28.0%\nReturn on Equity: 49.4%\nProfit Margin: 15.5%\n\nTrading Information:\nBeta: 0.57\nDividend Yield: 2.49%\nPrevious Close: $20.32\nDay Range: $20.11 - $21.15\nVolume: 48,571,791\nAverage Volume: 36,671,105",
+  "source": "batch-cache",
+  "cached_at": "2025-07-28T21:15:02.695999"
+}

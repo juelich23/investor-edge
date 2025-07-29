@@ -1,0 +1,9 @@
+{
+  "ticker": "SPG",
+  "company": "Simon Property Group",
+  "quarter": "Q3 2025",
+  "date": "2025-07-28",
+  "content": "Simon Property Group Financial Overview\nData as of: 2025-07-28\n\nCompany Metrics:\nStock Price: $36.40\nMarket Cap: $98,853,228,445\n52-Week High: $47.32\n52-Week Low: $25.48\n\nValuation Metrics:\nP/E Ratio (TTM): 46.4\nForward P/E: 41.8\nPEG Ratio: 1.56\nPrice to Book: 9.0\n\nFinancial Performance:\nRevenue (TTM): $4,509,569,570\nRevenue Growth (YoY): 33.9%\nGross Margin: 73.0%\nOperating Margin: 47.4%\nNet Margin: 35.9%\n\nProfitability:\nReturn on Assets: 19.9%\nReturn on Equity: 5.1%\nProfit Margin: 35.9%\n\nTrading Information:\nBeta: 2.20\nDividend Yield: 4.01%\nPrevious Close: $35.67\nDay Range: $35.31 - $37.13\nVolume: 14,288,226\nAverage Volume: 46,524,060",
+  "source": "batch-cache",
+  "cached_at": "2025-07-28T21:15:02.691429"
+}

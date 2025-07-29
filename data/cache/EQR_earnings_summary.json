@@ -1,0 +1,9 @@
+{
+  "ticker": "EQR",
+  "company": "Equity Residential",
+  "quarter": "Q3 2025",
+  "date": "2025-07-28",
+  "content": "Equity Residential Financial Overview\nData as of: 2025-07-28\n\nCompany Metrics:\nStock Price: $0.40\nMarket Cap: $1,677,257,878\n52-Week High: $0.53\n52-Week Low: $0.28\n\nValuation Metrics:\nP/E Ratio (TTM): 81.4\nForward P/E: 73.3\nPEG Ratio: 1.12\nPrice to Book: 2.8\n\nFinancial Performance:\nRevenue (TTM): $354,732,500\nRevenue Growth (YoY): 47.2%\nGross Margin: 17.4%\nOperating Margin: 6.6%\nNet Margin: 3.5%\n\nProfitability:\nReturn on Assets: 1.7%\nReturn on Equity: 42.0%\nProfit Margin: 3.5%\n\nTrading Information:\nBeta: 0.68\nDividend Yield: 3.12%\nPrevious Close: $0.40\nDay Range: $0.39 - $0.41\nVolume: 1,038,630\nAverage Volume: 9,352,571",
+  "source": "batch-cache",
+  "cached_at": "2025-07-28T21:15:02.807934"
+}

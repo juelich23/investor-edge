@@ -1,0 +1,9 @@
+{
+  "ticker": "COF",
+  "company": "Capital One",
+  "quarter": "Q3 2025",
+  "date": "2025-07-28",
+  "content": "Capital One Financial Overview\nData as of: 2025-07-28\n\nCompany Metrics:\nStock Price: $56.46\nMarket Cap: $36,652,870,086\n52-Week High: $73.39\n52-Week Low: $39.52\n\nValuation Metrics:\nP/E Ratio (TTM): N/A\nForward P/E: N/A\nPEG Ratio: 2.23\nPrice to Book: 3.0\n\nFinancial Performance:\nRevenue (TTM): $5,821,445,327\nRevenue Growth (YoY): 33.9%\nGross Margin: 45.9%\nOperating Margin: 25.0%\nNet Margin: 10.7%\n\nProfitability:\nReturn on Assets: 27.1%\nReturn on Equity: 41.3%\nProfit Margin: 10.7%\n\nTrading Information:\nBeta: 0.89\nDividend Yield: 3.56%\nPrevious Close: $55.33\nDay Range: $54.76 - $57.59\nVolume: 12,665,568\nAverage Volume: 17,349,663",
+  "source": "batch-cache",
+  "cached_at": "2025-07-28T21:15:02.678286"
+}

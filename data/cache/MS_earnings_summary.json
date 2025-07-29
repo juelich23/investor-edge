@@ -1,0 +1,9 @@
+{
+  "ticker": "MS",
+  "company": "Morgan Stanley",
+  "quarter": "Q3 2025",
+  "date": "2025-07-28",
+  "content": "Morgan Stanley Financial Overview\nData as of: 2025-07-28\n\nCompany Metrics:\nStock Price: $265.80\nMarket Cap: $816,609,348,273\n52-Week High: $345.53\n52-Week Low: $186.06\n\nValuation Metrics:\nP/E Ratio (TTM): 18.3\nForward P/E: 16.5\nPEG Ratio: 1.33\nPrice to Book: 2.6\n\nFinancial Performance:\nRevenue (TTM): $470,090,189,531\nRevenue Growth (YoY): 33.1%\nGross Margin: 35.2%\nOperating Margin: 7.4%\nNet Margin: 3.1%\n\nProfitability:\nReturn on Assets: 6.3%\nReturn on Equity: 49.3%\nProfit Margin: 3.1%\n\nTrading Information:\nBeta: 0.55\nDividend Yield: 1.38%\nPrevious Close: $260.48\nDay Range: $257.82 - $271.11\nVolume: 4,222,000\nAverage Volume: 17,276,910",
+  "source": "batch-cache",
+  "cached_at": "2025-07-28T21:15:02.666224"
+}

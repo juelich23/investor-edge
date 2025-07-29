@@ -1,0 +1,9 @@
+{
+  "ticker": "KMX",
+  "company": "CarMax",
+  "quarter": "Q3 2025",
+  "date": "2025-07-28",
+  "content": "CarMax Financial Overview\nData as of: 2025-07-28\n\nCompany Metrics:\nStock Price: $0.22\nMarket Cap: $611,440,362\n52-Week High: $0.29\n52-Week Low: $0.16\n\nValuation Metrics:\nP/E Ratio (TTM): N/A\nForward P/E: N/A\nPEG Ratio: 1.01\nPrice to Book: 5.2\n\nFinancial Performance:\nRevenue (TTM): $388,778,798\nRevenue Growth (YoY): -1.6%\nGross Margin: 66.0%\nOperating Margin: 28.0%\nNet Margin: 5.8%\n\nProfitability:\nReturn on Assets: 15.8%\nReturn on Equity: 39.3%\nProfit Margin: 5.8%\n\nTrading Information:\nBeta: 1.21\nDividend Yield: 3.45%\nPrevious Close: $0.22\nDay Range: $0.22 - $0.23\nVolume: 47,648,324\nAverage Volume: 25,401,504",
+  "source": "batch-cache",
+  "cached_at": "2025-07-28T21:15:02.773637"
+}

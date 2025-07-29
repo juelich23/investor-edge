@@ -1,0 +1,9 @@
+{
+  "ticker": "COIN",
+  "company": "Coinbase",
+  "quarter": "Q3 2025",
+  "date": "2025-07-28",
+  "content": "Coinbase Financial Overview\nData as of: 2025-07-28\n\nCompany Metrics:\nStock Price: $31.74\nMarket Cap: $92,575,029,493\n52-Week High: $41.27\n52-Week Low: $22.22\n\nValuation Metrics:\nP/E Ratio (TTM): 27.7\nForward P/E: 24.9\nPEG Ratio: 2.44\nPrice to Book: 4.2\n\nFinancial Performance:\nRevenue (TTM): $7,985,428,437\nRevenue Growth (YoY): -13.2%\nGross Margin: 52.4%\nOperating Margin: 39.1%\nNet Margin: 12.7%\n\nProfitability:\nReturn on Assets: 9.8%\nReturn on Equity: 43.2%\nProfit Margin: 12.7%\n\nTrading Information:\nBeta: 1.48\nDividend Yield: 3.59%\nPrevious Close: $31.11\nDay Range: $30.79 - $32.38\nVolume: 24,630,006\nAverage Volume: 48,483,153",
+  "source": "batch-cache",
+  "cached_at": "2025-07-28T21:15:02.684066"
+}

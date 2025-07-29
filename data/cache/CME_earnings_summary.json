@@ -1,0 +1,9 @@
+{
+  "ticker": "CME",
+  "company": "CME Group",
+  "quarter": "Q3 2025",
+  "date": "2025-07-28",
+  "content": "CME Group Financial Overview\nData as of: 2025-07-28\n\nCompany Metrics:\nStock Price: $24.86\nMarket Cap: $75,686,346,791\n52-Week High: $32.32\n52-Week Low: $17.40\n\nValuation Metrics:\nP/E Ratio (TTM): 14.7\nForward P/E: 13.2\nPEG Ratio: 1.97\nPrice to Book: 2.2\n\nFinancial Performance:\nRevenue (TTM): $9,566,510,310\nRevenue Growth (YoY): 21.2%\nGross Margin: 48.5%\nOperating Margin: 37.3%\nNet Margin: 7.6%\n\nProfitability:\nReturn on Assets: 10.5%\nReturn on Equity: 24.3%\nProfit Margin: 7.6%\n\nTrading Information:\nBeta: 0.90\nDividend Yield: 1.26%\nPrevious Close: $24.37\nDay Range: $24.12 - $25.36\nVolume: 42,098,005\nAverage Volume: 46,033,693",
+  "source": "batch-cache",
+  "cached_at": "2025-07-28T21:15:02.683689"
+}

@@ -1,0 +1,9 @@
+{
+  "ticker": "GOOG",
+  "company": "Alphabet Inc. (Class C)",
+  "quarter": "Q3 2025",
+  "date": "2025-07-28",
+  "content": "Alphabet Inc. (Class C) Financial Overview\nData as of: 2025-07-28\n\nCompany Metrics:\nStock Price: $101.91\nMarket Cap: $492,876,564,471\n52-Week High: $132.49\n52-Week Low: $71.34\n\nValuation Metrics:\nP/E Ratio (TTM): 30.5\nForward P/E: 27.4\nPEG Ratio: 2.03\nPrice to Book: 3.5\n\nFinancial Performance:\nRevenue (TTM): $10,953,347,824\nRevenue Growth (YoY): -7.6%\nGross Margin: 70.8%\nOperating Margin: 7.4%\nNet Margin: 6.4%\n\nProfitability:\nReturn on Assets: 23.1%\nReturn on Equity: 23.0%\nProfit Margin: 6.4%\n\nTrading Information:\nBeta: 1.76\nDividend Yield: 4.61%\nPrevious Close: $99.87\nDay Range: $98.85 - $103.95\nVolume: 20,373,653\nAverage Volume: 46,105,876",
+  "source": "batch-cache",
+  "cached_at": "2025-07-28T21:15:02.654385"
+}

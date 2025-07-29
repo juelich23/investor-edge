@@ -1,0 +1,9 @@
+{
+  "ticker": "PSX",
+  "company": "Phillips 66",
+  "quarter": "Q3 2025",
+  "date": "2025-07-28",
+  "content": "Phillips 66 Financial Overview\nData as of: 2025-07-28\n\nCompany Metrics:\nStock Price: $30.34\nMarket Cap: $93,253,200,619\n52-Week High: $39.44\n52-Week Low: $21.24\n\nValuation Metrics:\nP/E Ratio (TTM): 19.5\nForward P/E: 17.5\nPEG Ratio: 3.20\nPrice to Book: 10.0\n\nFinancial Performance:\nRevenue (TTM): $8,933,114,107\nRevenue Growth (YoY): -18.5%\nGross Margin: 48.0%\nOperating Margin: 5.5%\nNet Margin: 2.4%\n\nProfitability:\nReturn on Assets: 26.9%\nReturn on Equity: 18.7%\nProfit Margin: 2.4%\n\nTrading Information:\nBeta: 1.76\nDividend Yield: 1.42%\nPrevious Close: $29.73\nDay Range: $29.43 - $30.94\nVolume: 37,372,029\nAverage Volume: 41,663,246",
+  "source": "batch-cache",
+  "cached_at": "2025-07-28T21:15:02.695629"
+}

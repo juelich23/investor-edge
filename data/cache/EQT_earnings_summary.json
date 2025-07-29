@@ -1,0 +1,9 @@
+{
+  "ticker": "EQT",
+  "company": "EQT Corporation",
+  "quarter": "Q3 2025",
+  "date": "2025-07-28",
+  "content": "EQT Corporation Financial Overview\nData as of: 2025-07-28\n\nCompany Metrics:\nStock Price: $0.17\nMarket Cap: $746,126,952\n52-Week High: $0.23\n52-Week Low: $0.12\n\nValuation Metrics:\nP/E Ratio (TTM): 30.4\nForward P/E: 27.4\nPEG Ratio: 2.52\nPrice to Book: 2.7\n\nFinancial Performance:\nRevenue (TTM): $400,544,436\nRevenue Growth (YoY): 2.0%\nGross Margin: 28.3%\nOperating Margin: 9.9%\nNet Margin: 6.6%\n\nProfitability:\nReturn on Assets: 25.6%\nReturn on Equity: 37.5%\nProfit Margin: 6.6%\n\nTrading Information:\nBeta: 2.50\nDividend Yield: 1.90%\nPrevious Close: $0.17\nDay Range: $0.17 - $0.18\nVolume: 49,995,590\nAverage Volume: 36,454,294",
+  "source": "batch-cache",
+  "cached_at": "2025-07-28T21:15:02.807560"
+}

@@ -1,0 +1,9 @@
+{
+  "ticker": "C",
+  "company": "Citigroup",
+  "quarter": "Q3 2025",
+  "date": "2025-07-28",
+  "content": "Citigroup Financial Overview\nData as of: 2025-07-28\n\nCompany Metrics:\nStock Price: $13.53\nMarket Cap: $49,459,389,107\n52-Week High: $17.59\n52-Week Low: $9.47\n\nValuation Metrics:\nP/E Ratio (TTM): 24.2\nForward P/E: 21.8\nPEG Ratio: 1.40\nPrice to Book: 8.9\n\nFinancial Performance:\nRevenue (TTM): $8,110,605,219\nRevenue Growth (YoY): 31.3%\nGross Margin: 25.7%\nOperating Margin: 13.2%\nNet Margin: 2.0%\n\nProfitability:\nReturn on Assets: 23.8%\nReturn on Equity: 10.8%\nProfit Margin: 2.0%\n\nTrading Information:\nBeta: 0.70\nDividend Yield: 0.90%\nPrevious Close: $13.26\nDay Range: $13.12 - $13.80\nVolume: 48,468,438\nAverage Volume: 37,252,264",
+  "source": "batch-cache",
+  "cached_at": "2025-07-28T21:15:02.672527"
+}

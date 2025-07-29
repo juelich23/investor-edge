@@ -1,0 +1,9 @@
+{
+  "ticker": "AXP",
+  "company": "American Express",
+  "quarter": "Q3 2025",
+  "date": "2025-07-28",
+  "content": "American Express Financial Overview\nData as of: 2025-07-28\n\nCompany Metrics:\nStock Price: $1037.75\nMarket Cap: $2,593,209,461,031\n52-Week High: $1349.08\n52-Week Low: $726.43\n\nValuation Metrics:\nP/E Ratio (TTM): 26.9\nForward P/E: 24.2\nPEG Ratio: 1.96\nPrice to Book: 7.5\n\nFinancial Performance:\nRevenue (TTM): $342,465,197,044\nRevenue Growth (YoY): 10.7%\nGross Margin: 52.0%\nOperating Margin: 37.6%\nNet Margin: 26.4%\n\nProfitability:\nReturn on Assets: 23.0%\nReturn on Equity: 15.5%\nProfit Margin: 26.4%\n\nTrading Information:\nBeta: 1.27\nDividend Yield: 4.43%\nPrevious Close: $1017.00\nDay Range: $1006.62 - $1058.51\nVolume: 33,027,376\nAverage Volume: 20,633,248",
+  "source": "batch-cache",
+  "cached_at": "2025-07-28T21:15:02.667638"
+}

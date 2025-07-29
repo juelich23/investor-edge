@@ -1,0 +1,9 @@
+{
+  "ticker": "BLK",
+  "company": "BlackRock",
+  "quarter": "Q3 2025",
+  "date": "2025-07-28",
+  "content": "BlackRock Financial Overview\nData as of: 2025-07-28\n\nCompany Metrics:\nStock Price: $25.39\nMarket Cap: $74,736,788,568\n52-Week High: $33.00\n52-Week Low: $17.77\n\nValuation Metrics:\nP/E Ratio (TTM): 11.6\nForward P/E: 10.5\nPEG Ratio: 3.17\nPrice to Book: 8.4\n\nFinancial Performance:\nRevenue (TTM): $672,483,130\nRevenue Growth (YoY): -5.5%\nGross Margin: 69.2%\nOperating Margin: 10.9%\nNet Margin: 8.8%\n\nProfitability:\nReturn on Assets: 8.7%\nReturn on Equity: 40.5%\nProfit Margin: 8.8%\n\nTrading Information:\nBeta: 1.38\nDividend Yield: 0.13%\nPrevious Close: $24.88\nDay Range: $24.63 - $25.89\nVolume: 45,650,344\nAverage Volume: 41,420,273",
+  "source": "batch-cache",
+  "cached_at": "2025-07-28T21:15:02.674045"
+}

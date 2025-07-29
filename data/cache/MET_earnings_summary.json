@@ -1,0 +1,9 @@
+{
+  "ticker": "MET",
+  "company": "MetLife",
+  "quarter": "Q3 2025",
+  "date": "2025-07-28",
+  "content": "MetLife Financial Overview\nData as of: 2025-07-28\n\nCompany Metrics:\nStock Price: $0.31\nMarket Cap: $1,398,338,550\n52-Week High: $0.40\n52-Week Low: $0.22\n\nValuation Metrics:\nP/E Ratio (TTM): 73.7\nForward P/E: 66.3\nPEG Ratio: 2.45\nPrice to Book: 2.1\n\nFinancial Performance:\nRevenue (TTM): $367,024,574\nRevenue Growth (YoY): 40.0%\nGross Margin: 42.2%\nOperating Margin: 26.1%\nNet Margin: 5.6%\n\nProfitability:\nReturn on Assets: 10.2%\nReturn on Equity: 26.3%\nProfit Margin: 5.6%\n\nTrading Information:\nBeta: 1.59\nDividend Yield: 2.78%\nPrevious Close: $0.31\nDay Range: $0.30 - $0.32\nVolume: 31,621,182\nAverage Volume: 47,202,607",
+  "source": "batch-cache",
+  "cached_at": "2025-07-28T21:15:02.765041"
+}

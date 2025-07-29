@@ -1,0 +1,9 @@
+{
+  "ticker": "ETR",
+  "company": "Entergy",
+  "quarter": "Q3 2025",
+  "date": "2025-07-28",
+  "content": "Entergy Financial Overview\nData as of: 2025-07-28\n\nCompany Metrics:\nStock Price: $1.18\nMarket Cap: $1,947,304,091\n52-Week High: $1.53\n52-Week Low: $0.83\n\nValuation Metrics:\nP/E Ratio (TTM): 10.8\nForward P/E: 9.7\nPEG Ratio: 2.06\nPrice to Book: 2.4\n\nFinancial Performance:\nRevenue (TTM): $403,993,754\nRevenue Growth (YoY): -0.6%\nGross Margin: 16.3%\nOperating Margin: 6.0%\nNet Margin: 4.3%\n\nProfitability:\nReturn on Assets: 1.7%\nReturn on Equity: 21.2%\nProfit Margin: 4.3%\n\nTrading Information:\nBeta: 1.35\nDividend Yield: 4.39%\nPrevious Close: $1.16\nDay Range: $1.15 - $1.20\nVolume: 11,451,060\nAverage Volume: 32,235,467",
+  "source": "batch-cache",
+  "cached_at": "2025-07-28T21:15:02.805642"
+}

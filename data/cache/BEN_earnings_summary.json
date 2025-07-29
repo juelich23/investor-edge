@@ -1,0 +1,9 @@
+{
+  "ticker": "BEN",
+  "company": "Franklin Resources",
+  "quarter": "Q3 2025",
+  "date": "2025-07-28",
+  "content": "Franklin Resources Financial Overview\nData as of: 2025-07-28\n\nCompany Metrics:\nStock Price: $0.58\nMarket Cap: $362,068,577\n52-Week High: $0.75\n52-Week Low: $0.41\n\nValuation Metrics:\nP/E Ratio (TTM): 74.3\nForward P/E: 66.9\nPEG Ratio: 2.54\nPrice to Book: 2.7\n\nFinancial Performance:\nRevenue (TTM): $96,791,662\nRevenue Growth (YoY): -0.5%\nGross Margin: 20.6%\nOperating Margin: 14.4%\nNet Margin: 1.1%\n\nProfitability:\nReturn on Assets: 15.7%\nReturn on Equity: 40.2%\nProfit Margin: 1.1%\n\nTrading Information:\nBeta: 0.53\nDividend Yield: 3.20%\nPrevious Close: $0.57\nDay Range: $0.56 - $0.59\nVolume: 47,785,897\nAverage Volume: 24,649,143",
+  "source": "batch-cache",
+  "cached_at": "2025-07-28T21:15:02.838215"
+}

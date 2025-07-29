@@ -1,0 +1,9 @@
+{
+  "ticker": "CRM",
+  "company": "Salesforce",
+  "quarter": "Q3 2025",
+  "date": "2025-07-28",
+  "content": "Salesforce Financial Overview\nData as of: 2025-07-28\n\nCompany Metrics:\nStock Price: $2976.48\nMarket Cap: $1,258,264,554,121\n52-Week High: $3869.43\n52-Week Low: $2083.54\n\nValuation Metrics:\nP/E Ratio (TTM): 28.9\nForward P/E: 26.0\nPEG Ratio: 1.91\nPrice to Book: 2.7\n\nFinancial Performance:\nRevenue (TTM): $77,140,946,021\nRevenue Growth (YoY): 1.6%\nGross Margin: 47.6%\nOperating Margin: 6.8%\nNet Margin: 4.8%\n\nProfitability:\nReturn on Assets: 11.4%\nReturn on Equity: 49.2%\nProfit Margin: 4.8%\n\nTrading Information:\nBeta: 1.97\nDividend Yield: 4.38%\nPrevious Close: $2916.95\nDay Range: $2887.19 - $3036.01\nVolume: 23,330,416\nAverage Volume: 8,555,116",
+  "source": "batch-cache",
+  "cached_at": "2025-07-28T21:15:02.665156"
+}

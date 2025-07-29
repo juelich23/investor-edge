@@ -1,0 +1,9 @@
+{
+  "ticker": "NFLX",
+  "company": "Netflix",
+  "quarter": "Q3 2025",
+  "date": "2025-07-28",
+  "content": "Netflix Financial Overview\nData as of: 2025-07-28\n\nCompany Metrics:\nStock Price: $516.43\nMarket Cap: $1,263,526,172,919\n52-Week High: $671.36\n52-Week Low: $361.50\n\nValuation Metrics:\nP/E Ratio (TTM): 17.8\nForward P/E: 16.0\nPEG Ratio: 2.30\nPrice to Book: 1.2\n\nFinancial Performance:\nRevenue (TTM): $108,968,076,575\nRevenue Growth (YoY): -2.1%\nGross Margin: 44.0%\nOperating Margin: 24.3%\nNet Margin: 1.3%\n\nProfitability:\nReturn on Assets: 20.8%\nReturn on Equity: 10.1%\nProfit Margin: 1.3%\n\nTrading Information:\nBeta: 1.68\nDividend Yield: 4.05%\nPrevious Close: $506.10\nDay Range: $500.93 - $526.76\nVolume: 28,681,590\nAverage Volume: 34,306,373",
+  "source": "batch-cache",
+  "cached_at": "2025-07-28T21:15:02.658562"
+}

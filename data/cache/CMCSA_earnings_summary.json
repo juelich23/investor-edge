@@ -1,0 +1,9 @@
+{
+  "ticker": "CMCSA",
+  "company": "Comcast",
+  "quarter": "Q3 2025",
+  "date": "2025-07-28",
+  "content": "Comcast Financial Overview\nData as of: 2025-07-28\n\nCompany Metrics:\nStock Price: $7.95\nMarket Cap: $707,618,071\n52-Week High: $10.34\n52-Week Low: $5.57\n\nValuation Metrics:\nP/E Ratio (TTM): 68.6\nForward P/E: 61.7\nPEG Ratio: 2.09\nPrice to Book: 7.9\n\nFinancial Performance:\nRevenue (TTM): $270,844,626\nRevenue Growth (YoY): 0.7%\nGross Margin: 54.1%\nOperating Margin: 35.6%\nNet Margin: 27.5%\n\nProfitability:\nReturn on Assets: 13.4%\nReturn on Equity: 37.5%\nProfit Margin: 27.5%\n\nTrading Information:\nBeta: 0.90\nDividend Yield: 3.97%\nPrevious Close: $7.79\nDay Range: $7.71 - $8.11\nVolume: 33,697,228\nAverage Volume: 6,389,294",
+  "source": "batch-cache",
+  "cached_at": "2025-07-28T21:15:02.826645"
+}

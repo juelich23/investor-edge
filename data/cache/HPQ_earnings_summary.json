@@ -1,0 +1,9 @@
+{
+  "ticker": "HPQ",
+  "company": "HP Inc.",
+  "quarter": "Q3 2025",
+  "date": "2025-07-28",
+  "content": "HP Inc. Financial Overview\nData as of: 2025-07-28\n\nCompany Metrics:\nStock Price: $0.57\nMarket Cap: $1,241,194,581\n52-Week High: $0.75\n52-Week Low: $0.40\n\nValuation Metrics:\nP/E Ratio (TTM): 37.8\nForward P/E: 34.0\nPEG Ratio: 2.36\nPrice to Book: 9.9\n\nFinancial Performance:\nRevenue (TTM): $136,245,463\nRevenue Growth (YoY): 6.5%\nGross Margin: 39.9%\nOperating Margin: 30.7%\nNet Margin: 3.7%\n\nProfitability:\nReturn on Assets: 3.9%\nReturn on Equity: 44.2%\nProfit Margin: 3.7%\n\nTrading Information:\nBeta: 0.90\nDividend Yield: 4.30%\nPrevious Close: $0.56\nDay Range: $0.56 - $0.59\nVolume: 9,912,512\nAverage Volume: 1,789,046",
+  "source": "batch-cache",
+  "cached_at": "2025-07-28T21:15:02.788495"
+}

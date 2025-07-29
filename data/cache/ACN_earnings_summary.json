@@ -1,0 +1,9 @@
+{
+  "ticker": "ACN",
+  "company": "Accenture",
+  "quarter": "Q3 2025",
+  "date": "2025-07-28",
+  "content": "Accenture Financial Overview\nData as of: 2025-07-28\n\nCompany Metrics:\nStock Price: $0.17\nMarket Cap: $436,195,394\n52-Week High: $0.22\n52-Week Low: $0.12\n\nValuation Metrics:\nP/E Ratio (TTM): 92.0\nForward P/E: 82.8\nPEG Ratio: 1.24\nPrice to Book: 2.0\n\nFinancial Performance:\nRevenue (TTM): $325,653,147\nRevenue Growth (YoY): -18.7%\nGross Margin: 68.8%\nOperating Margin: 14.2%\nNet Margin: 11.6%\n\nProfitability:\nReturn on Assets: 18.9%\nReturn on Equity: 9.6%\nProfit Margin: 11.6%\n\nTrading Information:\nBeta: 1.51\nDividend Yield: 1.66%\nPrevious Close: $0.17\nDay Range: $0.17 - $0.18\nVolume: 30,427,226\nAverage Volume: 41,269,471",
+  "source": "batch-cache",
+  "cached_at": "2025-07-28T21:15:02.853689"
+}

@@ -1,0 +1,9 @@
+{
+  "ticker": "CAT",
+  "company": "Caterpillar Inc.",
+  "quarter": "Q3 2025",
+  "date": "2025-07-28",
+  "content": "Caterpillar Inc. Financial Overview\nData as of: 2025-07-28\n\nCompany Metrics:\nStock Price: $324.15\nMarket Cap: $762,881,511,797\n52-Week High: $421.39\n52-Week Low: $226.90\n\nValuation Metrics:\nP/E Ratio (TTM): 23.6\nForward P/E: 21.3\nPEG Ratio: 2.32\nPrice to Book: 2.7\n\nFinancial Performance:\nRevenue (TTM): $408,120,828,325\nRevenue Growth (YoY): 17.0%\nGross Margin: 57.6%\nOperating Margin: 44.1%\nNet Margin: 3.9%\n\nProfitability:\nReturn on Assets: 20.1%\nReturn on Equity: 16.8%\nProfit Margin: 3.9%\n\nTrading Information:\nBeta: 1.21\nDividend Yield: 2.10%\nPrevious Close: $317.67\nDay Range: $314.42 - $330.63\nVolume: 36,899,264\nAverage Volume: 42,788,034",
+  "source": "batch-cache",
+  "cached_at": "2025-07-28T21:15:02.669143"
+}

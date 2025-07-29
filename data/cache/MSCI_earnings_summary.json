@@ -1,0 +1,9 @@
+{
+  "ticker": "MSCI",
+  "company": "MSCI Inc.",
+  "quarter": "Q3 2025",
+  "date": "2025-07-28",
+  "content": "MSCI Inc. Financial Overview\nData as of: 2025-07-28\n\nCompany Metrics:\nStock Price: $22.64\nMarket Cap: $74,698,334,797\n52-Week High: $29.43\n52-Week Low: $15.85\n\nValuation Metrics:\nP/E Ratio (TTM): 21.6\nForward P/E: 19.4\nPEG Ratio: 1.59\nPrice to Book: 5.9\n\nFinancial Performance:\nRevenue (TTM): $5,351,314,413\nRevenue Growth (YoY): 34.2%\nGross Margin: 75.7%\nOperating Margin: 47.0%\nNet Margin: 23.3%\n\nProfitability:\nReturn on Assets: 11.5%\nReturn on Equity: 40.6%\nProfit Margin: 23.3%\n\nTrading Information:\nBeta: 0.90\nDividend Yield: 3.21%\nPrevious Close: $22.19\nDay Range: $21.96 - $23.09\nVolume: 7,067,252\nAverage Volume: 21,444,609",
+  "source": "batch-cache",
+  "cached_at": "2025-07-28T21:15:02.699385"
+}

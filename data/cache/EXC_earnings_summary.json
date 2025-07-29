@@ -1,0 +1,9 @@
+{
+  "ticker": "EXC",
+  "company": "Exelon",
+  "quarter": "Q3 2025",
+  "date": "2025-07-28",
+  "content": "Exelon Financial Overview\nData as of: 2025-07-28\n\nCompany Metrics:\nStock Price: $8.34\nMarket Cap: $1,662,113,828\n52-Week High: $10.85\n52-Week Low: $5.84\n\nValuation Metrics:\nP/E Ratio (TTM): 79.9\nForward P/E: 71.9\nPEG Ratio: 3.29\nPrice to Book: 1.4\n\nFinancial Performance:\nRevenue (TTM): $451,141,077\nRevenue Growth (YoY): -18.3%\nGross Margin: 44.4%\nOperating Margin: 34.2%\nNet Margin: 17.4%\n\nProfitability:\nReturn on Assets: 12.3%\nReturn on Equity: 29.2%\nProfit Margin: 17.4%\n\nTrading Information:\nBeta: 1.73\nDividend Yield: 2.38%\nPrevious Close: $8.18\nDay Range: $8.09 - $8.51\nVolume: 34,853,114\nAverage Volume: 8,443,149",
+  "source": "batch-cache",
+  "cached_at": "2025-07-28T21:15:02.804487"
+}

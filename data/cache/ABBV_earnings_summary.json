@@ -1,0 +1,9 @@
+{
+  "ticker": "ABBV",
+  "company": "AbbVie",
+  "quarter": "Q3 2025",
+  "date": "2025-07-28",
+  "content": "AbbVie Financial Overview\nData as of: 2025-07-28\n\nCompany Metrics:\nStock Price: $387.44\nMarket Cap: $1,919,829,744,238\n52-Week High: $503.67\n52-Week Low: $271.21\n\nValuation Metrics:\nP/E Ratio (TTM): 20.8\nForward P/E: 18.8\nPEG Ratio: 2.55\nPrice to Book: 1.2\n\nFinancial Performance:\nRevenue (TTM): $119,569,702,006\nRevenue Growth (YoY): 45.5%\nGross Margin: 17.5%\nOperating Margin: 9.7%\nNet Margin: 4.7%\n\nProfitability:\nReturn on Assets: 6.5%\nReturn on Equity: 41.2%\nProfit Margin: 4.7%\n\nTrading Information:\nBeta: 0.66\nDividend Yield: 2.83%\nPrevious Close: $379.69\nDay Range: $375.81 - $395.19\nVolume: 43,833,057\nAverage Volume: 23,329,692",
+  "source": "batch-cache",
+  "cached_at": "2025-07-28T21:15:02.661836"
+}

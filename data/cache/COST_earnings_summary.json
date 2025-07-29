@@ -1,0 +1,9 @@
+{
+  "ticker": "COST",
+  "company": "Costco",
+  "quarter": "Q3 2025",
+  "date": "2025-07-28",
+  "content": "Costco Financial Overview\nData as of: 2025-07-28\n\nCompany Metrics:\nStock Price: $871.91\nMarket Cap: $2,090,949,874,683\n52-Week High: $1133.48\n52-Week Low: $610.34\n\nValuation Metrics:\nP/E Ratio (TTM): 33.3\nForward P/E: 30.0\nPEG Ratio: 0.50\nPrice to Book: 6.3\n\nFinancial Performance:\nRevenue (TTM): $298,187,069,037\nRevenue Growth (YoY): 18.6%\nGross Margin: 71.0%\nOperating Margin: 20.0%\nNet Margin: 3.7%\n\nProfitability:\nReturn on Assets: 3.0%\nReturn on Equity: 6.0%\nProfit Margin: 3.7%\n\nTrading Information:\nBeta: 2.20\nDividend Yield: 0.08%\nPrevious Close: $854.47\nDay Range: $845.75 - $889.35\nVolume: 17,129,755\nAverage Volume: 44,267,858",
+  "source": "batch-cache",
+  "cached_at": "2025-07-28T21:15:02.659311"
+}

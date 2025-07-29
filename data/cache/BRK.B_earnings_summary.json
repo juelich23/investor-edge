@@ -1,0 +1,9 @@
+{
+  "ticker": "BRK.B",
+  "company": "Berkshire Hathaway",
+  "quarter": "Q3 2025",
+  "date": "2025-07-28",
+  "content": "Berkshire Hathaway Financial Overview\nData as of: 2025-07-28\n\nCompany Metrics:\nStock Price: $0.35\nMarket Cap: $1,532,597,809\n52-Week High: $0.46\n52-Week Low: $0.25\n\nValuation Metrics:\nP/E Ratio (TTM): 93.4\nForward P/E: 84.0\nPEG Ratio: 1.99\nPrice to Book: 4.5\n\nFinancial Performance:\nRevenue (TTM): $490,496,980\nRevenue Growth (YoY): -4.9%\nGross Margin: 16.4%\nOperating Margin: 7.3%\nNet Margin: 5.9%\n\nProfitability:\nReturn on Assets: 16.1%\nReturn on Equity: 32.3%\nProfit Margin: 5.9%\n\nTrading Information:\nBeta: 2.46\nDividend Yield: 3.76%\nPrevious Close: $0.35\nDay Range: $0.34 - $0.36\nVolume: 32,404,973\nAverage Volume: 28,794,348",
+  "source": "batch-cache",
+  "cached_at": "2025-07-28T21:15:02.835625"
+}

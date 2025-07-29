@@ -1,0 +1,9 @@
+{
+  "ticker": "KEY",
+  "company": "KeyCorp",
+  "quarter": "Q3 2025",
+  "date": "2025-07-28",
+  "content": "KeyCorp Financial Overview\nData as of: 2025-07-28\n\nCompany Metrics:\nStock Price: $1.07\nMarket Cap: $1,550,114,945\n52-Week High: $1.39\n52-Week Low: $0.75\n\nValuation Metrics:\nP/E Ratio (TTM): 56.8\nForward P/E: 51.1\nPEG Ratio: 2.87\nPrice to Book: 9.8\n\nFinancial Performance:\nRevenue (TTM): $237,783,661\nRevenue Growth (YoY): -14.8%\nGross Margin: 16.0%\nOperating Margin: 5.3%\nNet Margin: 2.4%\n\nProfitability:\nReturn on Assets: 18.7%\nReturn on Equity: 19.4%\nProfit Margin: 2.4%\n\nTrading Information:\nBeta: 1.16\nDividend Yield: 4.57%\nPrevious Close: $1.05\nDay Range: $1.04 - $1.09\nVolume: 33,856,257\nAverage Volume: 1,974,942",
+  "source": "batch-cache",
+  "cached_at": "2025-07-28T21:15:02.776564"
+}

@@ -1,0 +1,9 @@
+{
+  "ticker": "NDAQ",
+  "company": "Nasdaq, Inc.",
+  "quarter": "Q3 2025",
+  "date": "2025-07-28",
+  "content": "Nasdaq, Inc. Financial Overview\nData as of: 2025-07-28\n\nCompany Metrics:\nStock Price: $8.58\nMarket Cap: $27,646,940,876\n52-Week High: $11.15\n52-Week Low: $6.00\n\nValuation Metrics:\nP/E Ratio (TTM): 25.0\nForward P/E: 22.5\nPEG Ratio: 2.91\nPrice to Book: 9.0\n\nFinancial Performance:\nRevenue (TTM): $5,872,279,979\nRevenue Growth (YoY): 23.0%\nGross Margin: 51.1%\nOperating Margin: 40.3%\nNet Margin: 4.8%\n\nProfitability:\nReturn on Assets: 21.2%\nReturn on Equity: 17.4%\nProfit Margin: 4.8%\n\nTrading Information:\nBeta: 1.86\nDividend Yield: 0.52%\nPrevious Close: $8.40\nDay Range: $8.32 - $8.75\nVolume: 12,640,947\nAverage Volume: 31,197,725",
+  "source": "batch-cache",
+  "cached_at": "2025-07-28T21:15:02.693807"
+}

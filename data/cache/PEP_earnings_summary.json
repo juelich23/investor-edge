@@ -1,0 +1,9 @@
+{
+  "ticker": "PEP",
+  "company": "PepsiCo",
+  "quarter": "Q3 2025",
+  "date": "2025-07-28",
+  "content": "PepsiCo Financial Overview\nData as of: 2025-07-28\n\nCompany Metrics:\nStock Price: $132.27\nMarket Cap: $348,876,162,257\n52-Week High: $171.95\n52-Week Low: $92.59\n\nValuation Metrics:\nP/E Ratio (TTM): 22.7\nForward P/E: 20.4\nPEG Ratio: 2.42\nPrice to Book: 7.3\n\nFinancial Performance:\nRevenue (TTM): $253,987,160,002\nRevenue Growth (YoY): 11.0%\nGross Margin: 47.0%\nOperating Margin: 14.2%\nNet Margin: 1.1%\n\nProfitability:\nReturn on Assets: 15.9%\nReturn on Equity: 21.5%\nProfit Margin: 1.1%\n\nTrading Information:\nBeta: 1.62\nDividend Yield: 3.18%\nPrevious Close: $129.62\nDay Range: $128.30 - $134.91\nVolume: 14,391,124\nAverage Volume: 14,725,327",
+  "source": "batch-cache",
+  "cached_at": "2025-07-28T21:15:02.670299"
+}

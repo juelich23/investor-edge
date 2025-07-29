@@ -1,0 +1,9 @@
+{
+  "ticker": "URI",
+  "company": "United Rentals",
+  "quarter": "Q3 2025",
+  "date": "2025-07-28",
+  "content": "United Rentals Financial Overview\nData as of: 2025-07-28\n\nCompany Metrics:\nStock Price: $11.66\nMarket Cap: $52,228,923,729\n52-Week High: $15.16\n52-Week Low: $8.16\n\nValuation Metrics:\nP/E Ratio (TTM): 42.5\nForward P/E: 38.3\nPEG Ratio: 3.18\nPrice to Book: 7.3\n\nFinancial Performance:\nRevenue (TTM): $7,656,297,686\nRevenue Growth (YoY): 15.6%\nGross Margin: 46.4%\nOperating Margin: 12.5%\nNet Margin: 10.5%\n\nProfitability:\nReturn on Assets: 14.6%\nReturn on Equity: 14.6%\nProfit Margin: 10.5%\n\nTrading Information:\nBeta: 2.44\nDividend Yield: 0.56%\nPrevious Close: $11.43\nDay Range: $11.31 - $11.89\nVolume: 30,143,003\nAverage Volume: 33,651,829",
+  "source": "batch-cache",
+  "cached_at": "2025-07-28T21:15:02.721682"
+}

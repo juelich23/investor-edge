@@ -1,0 +1,9 @@
+{
+  "ticker": "VTR",
+  "company": "Ventas",
+  "quarter": "Q3 2025",
+  "date": "2025-07-28",
+  "content": "Ventas Financial Overview\nData as of: 2025-07-28\n\nCompany Metrics:\nStock Price: $168.62\nMarket Cap: $96,865,371,213\n52-Week High: $219.21\n52-Week Low: $118.03\n\nValuation Metrics:\nP/E Ratio (TTM): 25.8\nForward P/E: 23.2\nPEG Ratio: 1.01\nPrice to Book: 3.3\n\nFinancial Performance:\nRevenue (TTM): $3,241,166,803\nRevenue Growth (YoY): 50.0%\nGross Margin: 78.6%\nOperating Margin: 54.4%\nNet Margin: 7.9%\n\nProfitability:\nReturn on Assets: 4.9%\nReturn on Equity: 5.4%\nProfit Margin: 7.9%\n\nTrading Information:\nBeta: 2.26\nDividend Yield: 2.35%\nPrevious Close: $165.25\nDay Range: $163.56 - $171.99\nVolume: 43,980,355\nAverage Volume: 12,782,757",
+  "source": "batch-cache",
+  "cached_at": "2025-07-28T21:15:02.719464"
+}

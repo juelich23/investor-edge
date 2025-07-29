@@ -1,0 +1,9 @@
+{
+  "ticker": "KR",
+  "company": "Kroger",
+  "quarter": "Q3 2025",
+  "date": "2025-07-28",
+  "content": "Kroger Financial Overview\nData as of: 2025-07-28\n\nCompany Metrics:\nStock Price: $0.36\nMarket Cap: $559,678,975\n52-Week High: $0.47\n52-Week Low: $0.25\n\nValuation Metrics:\nP/E Ratio (TTM): 67.7\nForward P/E: 60.9\nPEG Ratio: 1.51\nPrice to Book: 4.3\n\nFinancial Performance:\nRevenue (TTM): $276,414,116\nRevenue Growth (YoY): 13.1%\nGross Margin: 82.4%\nOperating Margin: 5.5%\nNet Margin: 1.7%\n\nProfitability:\nReturn on Assets: 1.7%\nReturn on Equity: 5.9%\nProfit Margin: 1.7%\n\nTrading Information:\nBeta: 1.44\nDividend Yield: 3.10%\nPrevious Close: $0.36\nDay Range: $0.35 - $0.37\nVolume: 2,480,791\nAverage Volume: 36,438,770",
+  "source": "batch-cache",
+  "cached_at": "2025-07-28T21:15:02.773283"
+}

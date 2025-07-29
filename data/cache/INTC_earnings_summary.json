@@ -1,0 +1,9 @@
+{
+  "ticker": "INTC",
+  "company": "Intel",
+  "quarter": "Q3 2025",
+  "date": "2025-07-28",
+  "content": "Intel Financial Overview\nData as of: 2025-07-28\n\nCompany Metrics:\nStock Price: $8.22\nMarket Cap: $23,335,727,231\n52-Week High: $10.69\n52-Week Low: $5.76\n\nValuation Metrics:\nP/E Ratio (TTM): 47.9\nForward P/E: 43.1\nPEG Ratio: 3.05\nPrice to Book: 4.0\n\nFinancial Performance:\nRevenue (TTM): $6,788,632,274\nRevenue Growth (YoY): 13.3%\nGross Margin: 20.5%\nOperating Margin: 14.6%\nNet Margin: 8.2%\n\nProfitability:\nReturn on Assets: 14.6%\nReturn on Equity: 16.2%\nProfit Margin: 8.2%\n\nTrading Information:\nBeta: 1.61\nDividend Yield: 0.78%\nPrevious Close: $8.06\nDay Range: $7.98 - $8.39\nVolume: 20,251,617\nAverage Volume: 37,509,293",
+  "source": "batch-cache",
+  "cached_at": "2025-07-28T21:15:02.685886"
+}

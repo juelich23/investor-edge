@@ -1,0 +1,9 @@
+{
+  "ticker": "F",
+  "company": "Ford Motor Company",
+  "quarter": "Q3 2025",
+  "date": "2025-07-28",
+  "content": "Ford Motor Company Financial Overview\nData as of: 2025-07-28\n\nCompany Metrics:\nStock Price: $21.33\nMarket Cap: $84,153,495,181\n52-Week High: $27.73\n52-Week Low: $14.93\n\nValuation Metrics:\nP/E Ratio (TTM): 22.8\nForward P/E: 20.5\nPEG Ratio: 3.28\nPrice to Book: 1.6\n\nFinancial Performance:\nRevenue (TTM): $8,712,151,433\nRevenue Growth (YoY): 41.9%\nGross Margin: 65.5%\nOperating Margin: 36.3%\nNet Margin: 12.4%\n\nProfitability:\nReturn on Assets: 8.8%\nReturn on Equity: 42.7%\nProfit Margin: 12.4%\n\nTrading Information:\nBeta: 0.82\nDividend Yield: 3.04%\nPrevious Close: $20.91\nDay Range: $20.69 - $21.76\nVolume: 49,048,381\nAverage Volume: 13,404,656",
+  "source": "batch-cache",
+  "cached_at": "2025-07-28T21:15:02.697875"
+}

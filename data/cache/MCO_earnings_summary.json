@@ -1,0 +1,9 @@
+{
+  "ticker": "MCO",
+  "company": "Moody's Corporation",
+  "quarter": "Q3 2025",
+  "date": "2025-07-28",
+  "content": "Moody's Corporation Financial Overview\nData as of: 2025-07-28\n\nCompany Metrics:\nStock Price: $1.89\nMarket Cap: $9,050,950,500\n52-Week High: $2.46\n52-Week Low: $1.33\n\nValuation Metrics:\nP/E Ratio (TTM): 33.6\nForward P/E: 30.2\nPEG Ratio: 3.04\nPrice to Book: 5.3\n\nFinancial Performance:\nRevenue (TTM): $3,851,098,060\nRevenue Growth (YoY): 41.5%\nGross Margin: 77.3%\nOperating Margin: 53.7%\nNet Margin: 41.5%\n\nProfitability:\nReturn on Assets: 22.2%\nReturn on Equity: 37.0%\nProfit Margin: 41.5%\n\nTrading Information:\nBeta: 0.92\nDividend Yield: 3.31%\nPrevious Close: $1.86\nDay Range: $1.84 - $1.93\nVolume: 31,867,516\nAverage Volume: 5,606,329",
+  "source": "batch-cache",
+  "cached_at": "2025-07-28T21:15:02.685529"
+}

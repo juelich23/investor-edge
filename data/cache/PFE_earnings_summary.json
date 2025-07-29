@@ -1,0 +1,9 @@
+{
+  "ticker": "PFE",
+  "company": "Pfizer",
+  "quarter": "Q3 2025",
+  "date": "2025-07-28",
+  "content": "Pfizer Financial Overview\nData as of: 2025-07-28\n\nCompany Metrics:\nStock Price: $1.97\nMarket Cap: $6,154,245,398\n52-Week High: $2.56\n52-Week Low: $1.38\n\nValuation Metrics:\nP/E Ratio (TTM): 34.2\nForward P/E: 30.8\nPEG Ratio: 1.01\nPrice to Book: 6.1\n\nFinancial Performance:\nRevenue (TTM): $3,955,619,247\nRevenue Growth (YoY): -12.2%\nGross Margin: 54.7%\nOperating Margin: 31.5%\nNet Margin: 19.8%\n\nProfitability:\nReturn on Assets: 11.8%\nReturn on Equity: 41.8%\nProfit Margin: 19.8%\n\nTrading Information:\nBeta: 1.94\nDividend Yield: 4.43%\nPrevious Close: $1.93\nDay Range: $1.91 - $2.01\nVolume: 43,077,761\nAverage Volume: 32,709,673",
+  "source": "batch-cache",
+  "cached_at": "2025-07-28T21:15:02.677461"
+}

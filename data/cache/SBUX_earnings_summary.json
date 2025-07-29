@@ -1,0 +1,9 @@
+{
+  "ticker": "SBUX",
+  "company": "Starbucks",
+  "quarter": "Q3 2025",
+  "date": "2025-07-28",
+  "content": "Starbucks Financial Overview\nData as of: 2025-07-28\n\nCompany Metrics:\nStock Price: $21.47\nMarket Cap: $73,223,874,544\n52-Week High: $27.91\n52-Week Low: $15.03\n\nValuation Metrics:\nP/E Ratio (TTM): 34.9\nForward P/E: 31.4\nPEG Ratio: 1.87\nPrice to Book: 8.1\n\nFinancial Performance:\nRevenue (TTM): $3,770,417,098\nRevenue Growth (YoY): -17.5%\nGross Margin: 27.5%\nOperating Margin: 15.8%\nNet Margin: 12.2%\n\nProfitability:\nReturn on Assets: 12.5%\nReturn on Equity: 20.5%\nProfit Margin: 12.2%\n\nTrading Information:\nBeta: 0.65\nDividend Yield: 1.63%\nPrevious Close: $21.04\nDay Range: $20.82 - $21.90\nVolume: 40,240,114\nAverage Volume: 37,835,231",
+  "source": "batch-cache",
+  "cached_at": "2025-07-28T21:15:02.681611"
+}

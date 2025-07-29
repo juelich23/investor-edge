@@ -1,0 +1,9 @@
+{
+  "ticker": "DOW",
+  "company": "Dow Inc.",
+  "quarter": "Q3 2025",
+  "date": "2025-07-28",
+  "content": "Dow Inc. Financial Overview\nData as of: 2025-07-28\n\nCompany Metrics:\nStock Price: $0.57\nMarket Cap: $1,738,968,184\n52-Week High: $0.74\n52-Week Low: $0.40\n\nValuation Metrics:\nP/E Ratio (TTM): 78.8\nForward P/E: 70.9\nPEG Ratio: 2.37\nPrice to Book: 4.6\n\nFinancial Performance:\nRevenue (TTM): $320,496,286\nRevenue Growth (YoY): 17.9%\nGross Margin: 43.1%\nOperating Margin: 11.6%\nNet Margin: 9.7%\n\nProfitability:\nReturn on Assets: 2.4%\nReturn on Equity: 24.4%\nProfit Margin: 9.7%\n\nTrading Information:\nBeta: 1.35\nDividend Yield: 4.38%\nPrevious Close: $0.56\nDay Range: $0.55 - $0.58\nVolume: 41,274,684\nAverage Volume: 17,003,905",
+  "source": "batch-cache",
+  "cached_at": "2025-07-28T21:15:02.815032"
+}

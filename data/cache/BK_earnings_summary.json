@@ -1,0 +1,9 @@
+{
+  "ticker": "BK",
+  "company": "BNY Mellon",
+  "quarter": "Q3 2025",
+  "date": "2025-07-28",
+  "content": "BNY Mellon Financial Overview\nData as of: 2025-07-28\n\nCompany Metrics:\nStock Price: $80.24\nMarket Cap: $50,589,552,539\n52-Week High: $104.31\n52-Week Low: $56.17\n\nValuation Metrics:\nP/E Ratio (TTM): 35.6\nForward P/E: 32.0\nPEG Ratio: 0.51\nPrice to Book: 6.0\n\nFinancial Performance:\nRevenue (TTM): $4,005,550,006\nRevenue Growth (YoY): 11.7%\nGross Margin: 74.0%\nOperating Margin: 27.0%\nNet Margin: 6.8%\n\nProfitability:\nReturn on Assets: 1.6%\nReturn on Equity: 22.2%\nProfit Margin: 6.8%\n\nTrading Information:\nBeta: 2.24\nDividend Yield: 3.31%\nPrevious Close: $78.63\nDay Range: $77.83 - $81.84\nVolume: 9,643,578\nAverage Volume: 1,173,090",
+  "source": "batch-cache",
+  "cached_at": "2025-07-28T21:15:02.690329"
+}

@@ -1,0 +1,9 @@
+{
+  "ticker": "SNOW",
+  "company": "Snowflake Inc.",
+  "quarter": "Q3 2025",
+  "date": "2025-07-28",
+  "content": "Snowflake Inc. Financial Overview\nData as of: 2025-07-28\n\nCompany Metrics:\nStock Price: $6.63\nMarket Cap: $28,292,144,369\n52-Week High: $8.62\n52-Week Low: $4.64\n\nValuation Metrics:\nP/E Ratio (TTM): 36.7\nForward P/E: 33.0\nPEG Ratio: 2.59\nPrice to Book: 4.5\n\nFinancial Performance:\nRevenue (TTM): $6,013,240,599\nRevenue Growth (YoY): -7.2%\nGross Margin: 74.9%\nOperating Margin: 49.9%\nNet Margin: 14.1%\n\nProfitability:\nReturn on Assets: 27.2%\nReturn on Equity: 40.3%\nProfit Margin: 14.1%\n\nTrading Information:\nBeta: 1.84\nDividend Yield: 2.69%\nPrevious Close: $6.50\nDay Range: $6.43 - $6.76\nVolume: 12,072,601\nAverage Volume: 34,015,586",
+  "source": "batch-cache",
+  "cached_at": "2025-07-28T21:15:02.689591"
+}

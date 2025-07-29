@@ -1,0 +1,9 @@
+{
+  "ticker": "AOS",
+  "company": "A. O. Smith",
+  "quarter": "Q3 2025",
+  "date": "2025-07-28",
+  "content": "A. O. Smith Financial Overview\nData as of: 2025-07-28\n\nCompany Metrics:\nStock Price: $0.16\nMarket Cap: $675,682,559\n52-Week High: $0.20\n52-Week Low: $0.11\n\nValuation Metrics:\nP/E Ratio (TTM): 82.7\nForward P/E: 74.4\nPEG Ratio: 1.50\nPrice to Book: 2.8\n\nFinancial Performance:\nRevenue (TTM): $333,111,964\nRevenue Growth (YoY): 36.2%\nGross Margin: 49.2%\nOperating Margin: 20.3%\nNet Margin: 11.5%\n\nProfitability:\nReturn on Assets: 6.9%\nReturn on Equity: 6.6%\nProfit Margin: 11.5%\n\nTrading Information:\nBeta: 2.32\nDividend Yield: 0.97%\nPrevious Close: $0.15\nDay Range: $0.15 - $0.16\nVolume: 15,344,325\nAverage Volume: 48,383,899",
+  "source": "batch-cache",
+  "cached_at": "2025-07-28T21:15:02.845081"
+}

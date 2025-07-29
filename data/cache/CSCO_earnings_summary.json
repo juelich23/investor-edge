@@ -1,0 +1,9 @@
+{
+  "ticker": "CSCO",
+  "company": "Cisco",
+  "quarter": "Q3 2025",
+  "date": "2025-07-28",
+  "content": "Cisco Financial Overview\nData as of: 2025-07-28\n\nCompany Metrics:\nStock Price: $430.91\nMarket Cap: $1,646,887,368,140\n52-Week High: $560.18\n52-Week Low: $301.64\n\nValuation Metrics:\nP/E Ratio (TTM): 19.2\nForward P/E: 17.3\nPEG Ratio: 3.31\nPrice to Book: 5.7\n\nFinancial Performance:\nRevenue (TTM): $326,419,039,877\nRevenue Growth (YoY): 47.7%\nGross Margin: 49.5%\nOperating Margin: 7.5%\nNet Margin: 4.2%\n\nProfitability:\nReturn on Assets: 17.3%\nReturn on Equity: 9.4%\nProfit Margin: 4.2%\n\nTrading Information:\nBeta: 2.42\nDividend Yield: 2.41%\nPrevious Close: $422.29\nDay Range: $417.98 - $439.53\nVolume: 9,677,505\nAverage Volume: 27,858,485",
+  "source": "batch-cache",
+  "cached_at": "2025-07-28T21:15:02.664104"
+}

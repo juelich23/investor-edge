@@ -1,0 +1,9 @@
+{
+  "ticker": "MSFT",
+  "company": "Microsoft",
+  "quarter": "Q3 2025",
+  "date": "2025-07-28",
+  "content": "Microsoft Financial Overview\nData as of: 2025-07-28\n\nCompany Metrics:\nStock Price: $263.20\nMarket Cap: $1,042,796,318,008\n52-Week High: $342.16\n52-Week Low: $184.24\n\nValuation Metrics:\nP/E Ratio (TTM): 39.4\nForward P/E: 35.5\nPEG Ratio: 1.94\nPrice to Book: 3.2\n\nFinancial Performance:\nRevenue (TTM): $170,026,491,481\nRevenue Growth (YoY): 16.6%\nGross Margin: 54.4%\nOperating Margin: 26.5%\nNet Margin: 6.7%\n\nProfitability:\nReturn on Assets: 24.0%\nReturn on Equity: 16.2%\nProfit Margin: 6.7%\n\nTrading Information:\nBeta: 1.16\nDividend Yield: 4.48%\nPrevious Close: $257.93\nDay Range: $255.30 - $268.46\nVolume: 19,238,220\nAverage Volume: 35,470,996",
+  "source": "batch-cache",
+  "cached_at": "2025-07-28T21:15:02.652423"
+}

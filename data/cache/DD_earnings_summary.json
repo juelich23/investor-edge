@@ -1,0 +1,9 @@
+{
+  "ticker": "DD",
+  "company": "DuPont",
+  "quarter": "Q3 2025",
+  "date": "2025-07-28",
+  "content": "DuPont Financial Overview\nData as of: 2025-07-28\n\nCompany Metrics:\nStock Price: $0.36\nMarket Cap: $945,653,587\n52-Week High: $0.46\n52-Week Low: $0.25\n\nValuation Metrics:\nP/E Ratio (TTM): 48.3\nForward P/E: 43.4\nPEG Ratio: 3.48\nPrice to Book: 8.7\n\nFinancial Performance:\nRevenue (TTM): $436,893,030\nRevenue Growth (YoY): 6.8%\nGross Margin: 83.0%\nOperating Margin: 19.8%\nNet Margin: 4.7%\n\nProfitability:\nReturn on Assets: 2.8%\nReturn on Equity: 22.7%\nProfit Margin: 4.7%\n\nTrading Information:\nBeta: 2.44\nDividend Yield: 3.39%\nPrevious Close: $0.35\nDay Range: $0.35 - $0.36\nVolume: 16,348,612\nAverage Volume: 13,683,586",
+  "source": "batch-cache",
+  "cached_at": "2025-07-28T21:15:02.818649"
+}

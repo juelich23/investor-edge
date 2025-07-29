@@ -1,0 +1,9 @@
+{
+  "ticker": "AAPL",
+  "company": "Apple Inc.",
+  "quarter": "Q3 2025",
+  "date": "2025-07-28",
+  "content": "Apple Inc. Financial Overview\nData as of: 2025-07-28\n\nCompany Metrics:\nStock Price: $571.95\nMarket Cap: $2,506,477,353,060\n52-Week High: $743.53\n52-Week Low: $400.36\n\nValuation Metrics:\nP/E Ratio (TTM): 27.2\nForward P/E: 24.4\nPEG Ratio: 3.26\nPrice to Book: 6.3\n\nFinancial Performance:\nRevenue (TTM): $186,710,685,049\nRevenue Growth (YoY): -9.1%\nGross Margin: 64.6%\nOperating Margin: 24.4%\nNet Margin: 19.6%\n\nProfitability:\nReturn on Assets: 12.2%\nReturn on Equity: 48.5%\nProfit Margin: 19.6%\n\nTrading Information:\nBeta: 2.21\nDividend Yield: 4.02%\nPrevious Close: $560.51\nDay Range: $554.79 - $583.39\nVolume: 914,614\nAverage Volume: 34,696,231",
+  "source": "batch-cache",
+  "cached_at": "2025-07-28T21:15:02.653023"
+}

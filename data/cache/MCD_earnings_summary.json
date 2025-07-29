@@ -1,0 +1,9 @@
+{
+  "ticker": "MCD",
+  "company": "McDonald's",
+  "quarter": "Q3 2025",
+  "date": "2025-07-28",
+  "content": "McDonald's Financial Overview\nData as of: 2025-07-28\n\nCompany Metrics:\nStock Price: $924.83\nMarket Cap: $1,206,185,230,219\n52-Week High: $1202.28\n52-Week Low: $647.38\n\nValuation Metrics:\nP/E Ratio (TTM): 24.2\nForward P/E: 21.8\nPEG Ratio: 2.21\nPrice to Book: 5.3\n\nFinancial Performance:\nRevenue (TTM): $191,331,629,606\nRevenue Growth (YoY): 27.3%\nGross Margin: 53.0%\nOperating Margin: 12.2%\nNet Margin: 2.8%\n\nProfitability:\nReturn on Assets: 19.8%\nReturn on Equity: 16.6%\nProfit Margin: 2.8%\n\nTrading Information:\nBeta: 1.79\nDividend Yield: 0.03%\nPrevious Close: $906.34\nDay Range: $897.09 - $943.33\nVolume: 26,325,912\nAverage Volume: 19,485,791",
+  "source": "batch-cache",
+  "cached_at": "2025-07-28T21:15:02.668007"
+}

@@ -1,0 +1,9 @@
+{
+  "ticker": "ORCL",
+  "company": "Oracle Corporation",
+  "quarter": "Q3 2025",
+  "date": "2025-07-28",
+  "content": "Oracle Corporation Financial Overview\nData as of: 2025-07-28\n\nCompany Metrics:\nStock Price: $1440.83\nMarket Cap: $988,201,240,416\n52-Week High: $1873.08\n52-Week Low: $1008.58\n\nValuation Metrics:\nP/E Ratio (TTM): 22.4\nForward P/E: 20.2\nPEG Ratio: 0.87\nPrice to Book: 2.4\n\nFinancial Performance:\nRevenue (TTM): $318,725,109,197\nRevenue Growth (YoY): -4.8%\nGross Margin: 55.6%\nOperating Margin: 18.3%\nNet Margin: 11.0%\n\nProfitability:\nReturn on Assets: 5.3%\nReturn on Equity: 43.5%\nProfit Margin: 11.0%\n\nTrading Information:\nBeta: 1.65\nDividend Yield: 1.12%\nPrevious Close: $1412.02\nDay Range: $1397.61 - $1469.65\nVolume: 20,028,516\nAverage Volume: 27,952,359",
+  "source": "batch-cache",
+  "cached_at": "2025-07-28T21:15:02.657830"
+}

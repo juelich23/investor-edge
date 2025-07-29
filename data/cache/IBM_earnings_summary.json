@@ -1,0 +1,9 @@
+{
+  "ticker": "IBM",
+  "company": "IBM",
+  "quarter": "Q3 2025",
+  "date": "2025-07-28",
+  "content": "IBM Financial Overview\nData as of: 2025-07-28\n\nCompany Metrics:\nStock Price: $282.26\nMarket Cap: $261,157,512,040\n52-Week High: $366.93\n52-Week Low: $197.58\n\nValuation Metrics:\nP/E Ratio (TTM): 36.1\nForward P/E: 32.5\nPEG Ratio: 1.00\nPrice to Book: 6.5\n\nFinancial Performance:\nRevenue (TTM): $430,331,819,043\nRevenue Growth (YoY): 40.9%\nGross Margin: 19.4%\nOperating Margin: 5.7%\nNet Margin: 4.5%\n\nProfitability:\nReturn on Assets: 22.1%\nReturn on Equity: 34.9%\nProfit Margin: 4.5%\n\nTrading Information:\nBeta: 1.18\nDividend Yield: 0.92%\nPrevious Close: $276.61\nDay Range: $273.79 - $287.90\nVolume: 27,679,261\nAverage Volume: 9,574,125",
+  "source": "batch-cache",
+  "cached_at": "2025-07-28T21:15:02.665870"
+}

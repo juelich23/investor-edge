@@ -1,0 +1,9 @@
+{
+  "ticker": "HUM",
+  "company": "Humana",
+  "quarter": "Q3 2025",
+  "date": "2025-07-28",
+  "content": "Humana Financial Overview\nData as of: 2025-07-28\n\nCompany Metrics:\nStock Price: $0.38\nMarket Cap: $1,832,846,796\n52-Week High: $0.50\n52-Week Low: $0.27\n\nValuation Metrics:\nP/E Ratio (TTM): 75.6\nForward P/E: 68.0\nPEG Ratio: 1.76\nPrice to Book: 1.7\n\nFinancial Performance:\nRevenue (TTM): $427,768,836\nRevenue Growth (YoY): -9.6%\nGross Margin: 42.8%\nOperating Margin: 18.9%\nNet Margin: 3.3%\n\nProfitability:\nReturn on Assets: 19.2%\nReturn on Equity: 11.8%\nProfit Margin: 3.3%\n\nTrading Information:\nBeta: 0.77\nDividend Yield: 1.22%\nPrevious Close: $0.37\nDay Range: $0.37 - $0.39\nVolume: 32,451,979\nAverage Volume: 46,970,425",
+  "source": "batch-cache",
+  "cached_at": "2025-07-28T21:15:02.785389"
+}

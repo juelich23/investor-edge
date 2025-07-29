@@ -1,0 +1,9 @@
+{
+  "ticker": "SYY",
+  "company": "Sysco",
+  "quarter": "Q3 2025",
+  "date": "2025-07-28",
+  "content": "Sysco Financial Overview\nData as of: 2025-07-28\n\nCompany Metrics:\nStock Price: $0.12\nMarket Cap: $328,729,532\n52-Week High: $0.15\n52-Week Low: $0.08\n\nValuation Metrics:\nP/E Ratio (TTM): 52.4\nForward P/E: 47.1\nPEG Ratio: 0.58\nPrice to Book: 6.5\n\nFinancial Performance:\nRevenue (TTM): $78,368,390\nRevenue Growth (YoY): 3.1%\nGross Margin: 33.6%\nOperating Margin: 12.3%\nNet Margin: 3.1%\n\nProfitability:\nReturn on Assets: 12.4%\nReturn on Equity: 42.9%\nProfit Margin: 3.1%\n\nTrading Information:\nBeta: 1.97\nDividend Yield: 1.75%\nPrevious Close: $0.11\nDay Range: $0.11 - $0.12\nVolume: 10,045,172\nAverage Volume: 44,879,987",
+  "source": "batch-cache",
+  "cached_at": "2025-07-28T21:15:02.731489"
+}

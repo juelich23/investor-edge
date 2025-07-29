@@ -1,0 +1,9 @@
+{
+  "ticker": "BA",
+  "company": "Boeing",
+  "quarter": "Q3 2025",
+  "date": "2025-07-28",
+  "content": "Boeing Financial Overview\nData as of: 2025-07-28\n\nCompany Metrics:\nStock Price: $5.61\nMarket Cap: $16,500,251,443\n52-Week High: $7.29\n52-Week Low: $3.93\n\nValuation Metrics:\nP/E Ratio (TTM): 18.3\nForward P/E: 16.5\nPEG Ratio: 2.79\nPrice to Book: 9.1\n\nFinancial Performance:\nRevenue (TTM): $2,102,298,195\nRevenue Growth (YoY): 49.7%\nGross Margin: 73.1%\nOperating Margin: 30.7%\nNet Margin: 21.8%\n\nProfitability:\nReturn on Assets: 12.7%\nReturn on Equity: 47.2%\nProfit Margin: 21.8%\n\nTrading Information:\nBeta: 2.34\nDividend Yield: 0.82%\nPrevious Close: $5.50\nDay Range: $5.44 - $5.72\nVolume: 24,925,339\nAverage Volume: 10,723,063",
+  "source": "batch-cache",
+  "cached_at": "2025-07-28T21:15:02.673257"
+}

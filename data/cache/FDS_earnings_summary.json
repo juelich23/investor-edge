@@ -1,0 +1,9 @@
+{
+  "ticker": "FDS",
+  "company": "FactSet",
+  "quarter": "Q3 2025",
+  "date": "2025-07-28",
+  "content": "FactSet Financial Overview\nData as of: 2025-07-28\n\nCompany Metrics:\nStock Price: $1.44\nMarket Cap: $1,853,768,092\n52-Week High: $1.87\n52-Week Low: $1.01\n\nValuation Metrics:\nP/E Ratio (TTM): 18.6\nForward P/E: 16.7\nPEG Ratio: 0.63\nPrice to Book: 7.0\n\nFinancial Performance:\nRevenue (TTM): $462,159,656\nRevenue Growth (YoY): 15.2%\nGross Margin: 58.8%\nOperating Margin: 23.7%\nNet Margin: 10.2%\n\nProfitability:\nReturn on Assets: 19.1%\nReturn on Equity: 15.6%\nProfit Margin: 10.2%\n\nTrading Information:\nBeta: 2.13\nDividend Yield: 3.26%\nPrevious Close: $1.41\nDay Range: $1.40 - $1.47\nVolume: 33,489,006\nAverage Volume: 8,454,218",
+  "source": "batch-cache",
+  "cached_at": "2025-07-28T21:15:02.801613"
+}

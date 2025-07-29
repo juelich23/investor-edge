@@ -1,0 +1,9 @@
+{
+  "ticker": "VZ",
+  "company": "Verizon",
+  "quarter": "Q3 2025",
+  "date": "2025-07-28",
+  "content": "Verizon Financial Overview\nData as of: 2025-07-28\n\nCompany Metrics:\nStock Price: $2926.16\nMarket Cap: $2,815,630,721,792\n52-Week High: $3804.01\n52-Week Low: $2048.31\n\nValuation Metrics:\nP/E Ratio (TTM): 28.4\nForward P/E: 25.5\nPEG Ratio: 1.50\nPrice to Book: 9.4\n\nFinancial Performance:\nRevenue (TTM): $406,001,020,598\nRevenue Growth (YoY): -20.0%\nGross Margin: 26.7%\nOperating Margin: 11.6%\nNet Margin: 5.3%\n\nProfitability:\nReturn on Assets: 29.0%\nReturn on Equity: 30.4%\nProfit Margin: 5.3%\n\nTrading Information:\nBeta: 1.76\nDividend Yield: 2.17%\nPrevious Close: $2867.64\nDay Range: $2838.37 - $2984.68\nVolume: 47,319,467\nAverage Volume: 17,851,335",
+  "source": "batch-cache",
+  "cached_at": "2025-07-28T21:15:02.671422"
+}

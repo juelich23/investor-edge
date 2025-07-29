@@ -1,0 +1,9 @@
+{
+  "ticker": "BALL",
+  "company": "Ball Corporation",
+  "quarter": "Q3 2025",
+  "date": "2025-07-28",
+  "content": "Ball Corporation Financial Overview\nData as of: 2025-07-28\n\nCompany Metrics:\nStock Price: $0.51\nMarket Cap: $931,377,057\n52-Week High: $0.67\n52-Week Low: $0.36\n\nValuation Metrics:\nP/E Ratio (TTM): 53.1\nForward P/E: 47.8\nPEG Ratio: 0.78\nPrice to Book: 7.2\n\nFinancial Performance:\nRevenue (TTM): $67,611,631\nRevenue Growth (YoY): 18.9%\nGross Margin: 43.2%\nOperating Margin: 13.6%\nNet Margin: 12.0%\n\nProfitability:\nReturn on Assets: 9.8%\nReturn on Equity: 15.5%\nProfit Margin: 12.0%\n\nTrading Information:\nBeta: 2.39\nDividend Yield: 0.11%\nPrevious Close: $0.50\nDay Range: $0.50 - $0.52\nVolume: 692,795\nAverage Volume: 3,535,300",
+  "source": "batch-cache",
+  "cached_at": "2025-07-28T21:15:02.839706"
+}

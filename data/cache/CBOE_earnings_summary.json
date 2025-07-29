@@ -1,0 +1,9 @@
+{
+  "ticker": "CBOE",
+  "company": "Cboe Global Markets",
+  "quarter": "Q3 2025",
+  "date": "2025-07-28",
+  "content": "Cboe Global Markets Financial Overview\nData as of: 2025-07-28\n\nCompany Metrics:\nStock Price: $0.22\nMarket Cap: $462,797,428\n52-Week High: $0.28\n52-Week Low: $0.15\n\nValuation Metrics:\nP/E Ratio (TTM): 54.4\nForward P/E: 49.0\nPEG Ratio: 2.13\nPrice to Book: 4.5\n\nFinancial Performance:\nRevenue (TTM): $394,849,905\nRevenue Growth (YoY): -11.1%\nGross Margin: 16.5%\nOperating Margin: 8.6%\nNet Margin: 3.4%\n\nProfitability:\nReturn on Assets: 16.0%\nReturn on Equity: 38.7%\nProfit Margin: 3.4%\n\nTrading Information:\nBeta: 1.37\nDividend Yield: 2.88%\nPrevious Close: $0.21\nDay Range: $0.21 - $0.22\nVolume: 38,643,431\nAverage Volume: 16,573,983",
+  "source": "batch-cache",
+  "cached_at": "2025-07-28T21:15:02.832281"
+}

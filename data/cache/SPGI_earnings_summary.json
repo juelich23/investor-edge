@@ -1,0 +1,9 @@
+{
+  "ticker": "SPGI",
+  "company": "S&P Global",
+  "quarter": "Q3 2025",
+  "date": "2025-07-28",
+  "content": "S&P Global Financial Overview\nData as of: 2025-07-28\n\nCompany Metrics:\nStock Price: $90.86\nMarket Cap: $76,989,920,850\n52-Week High: $118.12\n52-Week Low: $63.60\n\nValuation Metrics:\nP/E Ratio (TTM): 34.7\nForward P/E: 31.2\nPEG Ratio: 3.15\nPrice to Book: 4.4\n\nFinancial Performance:\nRevenue (TTM): $3,069,789,733\nRevenue Growth (YoY): 43.8%\nGross Margin: 49.2%\nOperating Margin: 20.8%\nNet Margin: 4.5%\n\nProfitability:\nReturn on Assets: 16.6%\nReturn on Equity: 10.1%\nProfit Margin: 4.5%\n\nTrading Information:\nBeta: 1.26\nDividend Yield: 4.97%\nPrevious Close: $89.04\nDay Range: $88.13 - $92.68\nVolume: 41,946,507\nAverage Volume: 947,336",
+  "source": "batch-cache",
+  "cached_at": "2025-07-28T21:15:02.675188"
+}

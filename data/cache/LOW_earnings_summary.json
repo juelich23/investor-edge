@@ -1,0 +1,9 @@
+{
+  "ticker": "LOW",
+  "company": "Lowe's",
+  "quarter": "Q3 2025",
+  "date": "2025-07-28",
+  "content": "Lowe's Financial Overview\nData as of: 2025-07-28\n\nCompany Metrics:\nStock Price: $233.79\nMarket Cap: $62,418,266,109\n52-Week High: $303.92\n52-Week Low: $163.65\n\nValuation Metrics:\nP/E Ratio (TTM): N/A\nForward P/E: N/A\nPEG Ratio: 3.23\nPrice to Book: 5.6\n\nFinancial Performance:\nRevenue (TTM): $6,321,407,228\nRevenue Growth (YoY): -13.1%\nGross Margin: 46.6%\nOperating Margin: 15.1%\nNet Margin: 5.4%\n\nProfitability:\nReturn on Assets: 28.1%\nReturn on Equity: 37.2%\nProfit Margin: 5.4%\n\nTrading Information:\nBeta: 2.28\nDividend Yield: 3.11%\nPrevious Close: $229.11\nDay Range: $226.77 - $238.46\nVolume: 45,823,770\nAverage Volume: 49,481,652",
+  "source": "batch-cache",
+  "cached_at": "2025-07-28T21:15:02.679083"
+}

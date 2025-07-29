@@ -1,0 +1,9 @@
+{
+  "ticker": "BRO",
+  "company": "Brown & Brown",
+  "quarter": "Q3 2025",
+  "date": "2025-07-28",
+  "content": "Brown & Brown Financial Overview\nData as of: 2025-07-28\n\nCompany Metrics:\nStock Price: $0.33\nMarket Cap: $1,173,697,862\n52-Week High: $0.43\n52-Week Low: $0.23\n\nValuation Metrics:\nP/E Ratio (TTM): N/A\nForward P/E: N/A\nPEG Ratio: 2.62\nPrice to Book: 4.6\n\nFinancial Performance:\nRevenue (TTM): $210,373,037\nRevenue Growth (YoY): -19.6%\nGross Margin: 56.0%\nOperating Margin: 24.8%\nNet Margin: 16.8%\n\nProfitability:\nReturn on Assets: 22.7%\nReturn on Equity: 13.5%\nProfit Margin: 16.8%\n\nTrading Information:\nBeta: 1.57\nDividend Yield: 4.13%\nPrevious Close: $0.32\nDay Range: $0.32 - $0.33\nVolume: 9,274,965\nAverage Volume: 18,033,250",
+  "source": "batch-cache",
+  "cached_at": "2025-07-28T21:15:02.835190"
+}

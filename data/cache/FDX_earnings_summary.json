@@ -1,0 +1,9 @@
+{
+  "ticker": "FDX",
+  "company": "FedEx",
+  "quarter": "Q3 2025",
+  "date": "2025-07-28",
+  "content": "FedEx Financial Overview\nData as of: 2025-07-28\n\nCompany Metrics:\nStock Price: $3.19\nMarket Cap: $12,703,275,951\n52-Week High: $4.15\n52-Week Low: $2.23\n\nValuation Metrics:\nP/E Ratio (TTM): N/A\nForward P/E: N/A\nPEG Ratio: 1.34\nPrice to Book: 4.1\n\nFinancial Performance:\nRevenue (TTM): $5,715,648,980\nRevenue Growth (YoY): 41.1%\nGross Margin: 49.1%\nOperating Margin: 8.5%\nNet Margin: 7.7%\n\nProfitability:\nReturn on Assets: 7.4%\nReturn on Equity: 35.5%\nProfit Margin: 7.7%\n\nTrading Information:\nBeta: 1.96\nDividend Yield: 0.13%\nPrevious Close: $3.13\nDay Range: $3.09 - $3.25\nVolume: 41,286,377\nAverage Volume: 35,651,177",
+  "source": "batch-cache",
+  "cached_at": "2025-07-28T21:15:02.693446"
+}

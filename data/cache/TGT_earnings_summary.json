@@ -1,0 +1,9 @@
+{
+  "ticker": "TGT",
+  "company": "Target Corporation",
+  "quarter": "Q3 2025",
+  "date": "2025-07-28",
+  "content": "Target Corporation Financial Overview\nData as of: 2025-07-28\n\nCompany Metrics:\nStock Price: $16.38\nMarket Cap: $49,901,157,214\n52-Week High: $21.29\n52-Week Low: $11.46\n\nValuation Metrics:\nP/E Ratio (TTM): N/A\nForward P/E: N/A\nPEG Ratio: 2.51\nPrice to Book: 3.7\n\nFinancial Performance:\nRevenue (TTM): $2,325,344,322\nRevenue Growth (YoY): 31.5%\nGross Margin: 26.5%\nOperating Margin: 6.5%\nNet Margin: 3.9%\n\nProfitability:\nReturn on Assets: 17.1%\nReturn on Equity: 40.9%\nProfit Margin: 3.9%\n\nTrading Information:\nBeta: 2.49\nDividend Yield: 4.43%\nPrevious Close: $16.05\nDay Range: $15.89 - $16.70\nVolume: 30,286,251\nAverage Volume: 26,681,790",
+  "source": "batch-cache",
+  "cached_at": "2025-07-28T21:15:02.696764"
+}

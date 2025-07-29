@@ -1,0 +1,9 @@
+{
+  "ticker": "XOM",
+  "company": "ExxonMobil",
+  "quarter": "Q3 2025",
+  "date": "2025-07-28",
+  "content": "ExxonMobil Financial Overview\nData as of: 2025-07-28\n\nCompany Metrics:\nStock Price: $63.27\nMarket Cap: $176,933,440,427\n52-Week High: $82.25\n52-Week Low: $44.29\n\nValuation Metrics:\nP/E Ratio (TTM): N/A\nForward P/E: N/A\nPEG Ratio: 2.58\nPrice to Book: 3.0\n\nFinancial Performance:\nRevenue (TTM): $46,102,393,393\nRevenue Growth (YoY): 25.4%\nGross Margin: 75.3%\nOperating Margin: 7.6%\nNet Margin: 3.6%\n\nProfitability:\nReturn on Assets: 13.7%\nReturn on Equity: 30.9%\nProfit Margin: 3.6%\n\nTrading Information:\nBeta: 1.93\nDividend Yield: 0.74%\nPrevious Close: $62.00\nDay Range: $61.37 - $64.53\nVolume: 25,316,852\nAverage Volume: 25,272,365",
+  "source": "batch-cache",
+  "cached_at": "2025-07-28T21:15:02.658943"
+}

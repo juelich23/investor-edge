@@ -1,0 +1,9 @@
+{
+  "ticker": "BAC",
+  "company": "Bank of America",
+  "quarter": "Q3 2025",
+  "date": "2025-07-28",
+  "content": "Bank of America Financial Overview\nData as of: 2025-07-28\n\nCompany Metrics:\nStock Price: $110.33\nMarket Cap: $440,358,123,489\n52-Week High: $143.43\n52-Week Low: $77.23\n\nValuation Metrics:\nP/E Ratio (TTM): 15.9\nForward P/E: 14.3\nPEG Ratio: 1.32\nPrice to Book: 6.5\n\nFinancial Performance:\nRevenue (TTM): $451,830,327,210\nRevenue Growth (YoY): 49.4%\nGross Margin: 41.7%\nOperating Margin: 30.2%\nNet Margin: 5.3%\n\nProfitability:\nReturn on Assets: 17.8%\nReturn on Equity: 14.3%\nProfit Margin: 5.3%\n\nTrading Information:\nBeta: 1.57\nDividend Yield: 1.31%\nPrevious Close: $108.13\nDay Range: $107.02 - $112.54\nVolume: 6,786,925\nAverage Volume: 21,870,814",
+  "source": "batch-cache",
+  "cached_at": "2025-07-28T21:15:02.661460"
+}

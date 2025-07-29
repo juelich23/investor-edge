@@ -1,0 +1,9 @@
+{
+  "ticker": "ALL",
+  "company": "Allstate",
+  "quarter": "Q3 2025",
+  "date": "2025-07-28",
+  "content": "Allstate Financial Overview\nData as of: 2025-07-28\n\nCompany Metrics:\nStock Price: $0.20\nMarket Cap: $982,846,875\n52-Week High: $0.26\n52-Week Low: $0.14\n\nValuation Metrics:\nP/E Ratio (TTM): 44.4\nForward P/E: 40.0\nPEG Ratio: 2.00\nPrice to Book: 7.2\n\nFinancial Performance:\nRevenue (TTM): $77,307,554\nRevenue Growth (YoY): 19.6%\nGross Margin: 77.0%\nOperating Margin: 41.8%\nNet Margin: 25.7%\n\nProfitability:\nReturn on Assets: 29.0%\nReturn on Equity: 32.8%\nProfit Margin: 25.7%\n\nTrading Information:\nBeta: 0.79\nDividend Yield: 4.48%\nPrevious Close: $0.20\nDay Range: $0.19 - $0.20\nVolume: 1,249,504\nAverage Volume: 44,430,923",
+  "source": "batch-cache",
+  "cached_at": "2025-07-28T21:15:02.848088"
+}

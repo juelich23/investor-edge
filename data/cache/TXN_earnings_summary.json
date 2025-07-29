@@ -1,0 +1,9 @@
+{
+  "ticker": "TXN",
+  "company": "Texas Instruments",
+  "quarter": "Q3 2025",
+  "date": "2025-07-28",
+  "content": "Texas Instruments Financial Overview\nData as of: 2025-07-28\n\nCompany Metrics:\nStock Price: $18.79\nMarket Cap: $72,626,623,718\n52-Week High: $24.43\n52-Week Low: $13.15\n\nValuation Metrics:\nP/E Ratio (TTM): 46.7\nForward P/E: 42.0\nPEG Ratio: 3.35\nPrice to Book: 6.8\n\nFinancial Performance:\nRevenue (TTM): $5,952,677,803\nRevenue Growth (YoY): 38.2%\nGross Margin: 20.3%\nOperating Margin: 6.1%\nNet Margin: 4.3%\n\nProfitability:\nReturn on Assets: 2.5%\nReturn on Equity: 42.5%\nProfit Margin: 4.3%\n\nTrading Information:\nBeta: 1.05\nDividend Yield: 2.43%\nPrevious Close: $18.41\nDay Range: $18.23 - $19.17\nVolume: 19,369,043\nAverage Volume: 32,759,181",
+  "source": "batch-cache",
+  "cached_at": "2025-07-28T21:15:02.674420"
+}

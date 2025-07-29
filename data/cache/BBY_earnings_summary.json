@@ -1,0 +1,9 @@
+{
+  "ticker": "BBY",
+  "company": "Best Buy",
+  "quarter": "Q3 2025",
+  "date": "2025-07-28",
+  "content": "Best Buy Financial Overview\nData as of: 2025-07-28\n\nCompany Metrics:\nStock Price: $0.39\nMarket Cap: $1,828,706,160\n52-Week High: $0.50\n52-Week Low: $0.27\n\nValuation Metrics:\nP/E Ratio (TTM): N/A\nForward P/E: N/A\nPEG Ratio: 2.34\nPrice to Book: 2.2\n\nFinancial Performance:\nRevenue (TTM): $293,573,465\nRevenue Growth (YoY): 12.1%\nGross Margin: 43.3%\nOperating Margin: 12.7%\nNet Margin: 1.7%\n\nProfitability:\nReturn on Assets: 21.1%\nReturn on Equity: 25.8%\nProfit Margin: 1.7%\n\nTrading Information:\nBeta: 2.08\nDividend Yield: 3.01%\nPrevious Close: $0.38\nDay Range: $0.37 - $0.39\nVolume: 36,569,244\nAverage Volume: 44,611,102",
+  "source": "batch-cache",
+  "cached_at": "2025-07-28T21:15:02.838970"
+}

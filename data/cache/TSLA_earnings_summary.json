@@ -1,0 +1,9 @@
+{
+  "ticker": "TSLA",
+  "company": "Tesla, Inc.",
+  "quarter": "Q3 2025",
+  "date": "2025-07-28",
+  "content": "Tesla, Inc. Financial Overview\nData as of: 2025-07-28\n\nCompany Metrics:\nStock Price: $1221.47\nMarket Cap: $1,768,466,657,032\n52-Week High: $1587.92\n52-Week Low: $855.03\n\nValuation Metrics:\nP/E Ratio (TTM): N/A\nForward P/E: N/A\nPEG Ratio: 3.42\nPrice to Book: 3.7\n\nFinancial Performance:\nRevenue (TTM): $476,274,646,172\nRevenue Growth (YoY): 22.2%\nGross Margin: 24.4%\nOperating Margin: 18.3%\nNet Margin: 1.2%\n\nProfitability:\nReturn on Assets: 8.1%\nReturn on Equity: 8.4%\nProfit Margin: 1.2%\n\nTrading Information:\nBeta: 2.33\nDividend Yield: 4.63%\nPrevious Close: $1197.05\nDay Range: $1184.83 - $1245.90\nVolume: 12,859,244\nAverage Volume: 13,666,415",
+  "source": "batch-cache",
+  "cached_at": "2025-07-28T21:15:02.655986"
+}

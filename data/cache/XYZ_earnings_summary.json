@@ -1,0 +1,9 @@
+{
+  "ticker": "XYZ",
+  "company": "Block, Inc.",
+  "quarter": "Q3 2025",
+  "date": "2025-07-28",
+  "content": "Block, Inc. Financial Overview\nData as of: 2025-07-28\n\nCompany Metrics:\nStock Price: $1.28\nMarket Cap: $5,206,444,826\n52-Week High: $1.67\n52-Week Low: $0.90\n\nValuation Metrics:\nP/E Ratio (TTM): 17.5\nForward P/E: 15.8\nPEG Ratio: 1.18\nPrice to Book: 3.1\n\nFinancial Performance:\nRevenue (TTM): $6,638,828,333\nRevenue Growth (YoY): 4.4%\nGross Margin: 66.2%\nOperating Margin: 29.6%\nNet Margin: 25.2%\n\nProfitability:\nReturn on Assets: 23.7%\nReturn on Equity: 41.1%\nProfit Margin: 25.2%\n\nTrading Information:\nBeta: 1.73\nDividend Yield: 2.42%\nPrevious Close: $1.26\nDay Range: $1.24 - $1.31\nVolume: 38,126,819\nAverage Volume: 48,861,884",
+  "source": "batch-cache",
+  "cached_at": "2025-07-28T21:15:02.712126"
+}

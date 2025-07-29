@@ -1,0 +1,9 @@
+{
+  "ticker": "GS",
+  "company": "Goldman Sachs",
+  "quarter": "Q3 2025",
+  "date": "2025-07-28",
+  "content": "Goldman Sachs Financial Overview\nData as of: 2025-07-28\n\nCompany Metrics:\nStock Price: $1136.91\nMarket Cap: $826,499,575,582\n52-Week High: $1477.98\n52-Week Low: $795.83\n\nValuation Metrics:\nP/E Ratio (TTM): 25.1\nForward P/E: 22.6\nPEG Ratio: 1.81\nPrice to Book: 8.6\n\nFinancial Performance:\nRevenue (TTM): $75,768,282,960\nRevenue Growth (YoY): 5.5%\nGross Margin: 71.2%\nOperating Margin: 5.2%\nNet Margin: 4.3%\n\nProfitability:\nReturn on Assets: 13.4%\nReturn on Equity: 40.6%\nProfit Margin: 4.3%\n\nTrading Information:\nBeta: 1.44\nDividend Yield: 3.38%\nPrevious Close: $1114.17\nDay Range: $1102.80 - $1159.65\nVolume: 27,009,393\nAverage Volume: 15,965,965",
+  "source": "batch-cache",
+  "cached_at": "2025-07-28T21:15:02.666584"
+}

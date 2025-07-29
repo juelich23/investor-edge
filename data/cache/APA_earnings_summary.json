@@ -1,0 +1,9 @@
+{
+  "ticker": "APA",
+  "company": "APA Corporation",
+  "quarter": "Q3 2025",
+  "date": "2025-07-28",
+  "content": "APA Corporation Financial Overview\nData as of: 2025-07-28\n\nCompany Metrics:\nStock Price: $1.93\nMarket Cap: $1,312,800,373\n52-Week High: $2.51\n52-Week Low: $1.35\n\nValuation Metrics:\nP/E Ratio (TTM): 56.1\nForward P/E: 50.5\nPEG Ratio: 1.30\nPrice to Book: 1.4\n\nFinancial Performance:\nRevenue (TTM): $432,606,846\nRevenue Growth (YoY): 44.8%\nGross Margin: 82.8%\nOperating Margin: 45.7%\nNet Margin: 15.7%\n\nProfitability:\nReturn on Assets: 5.6%\nReturn on Equity: 48.5%\nProfit Margin: 15.7%\n\nTrading Information:\nBeta: 0.89\nDividend Yield: 1.69%\nPrevious Close: $1.89\nDay Range: $1.87 - $1.97\nVolume: 10,107,890\nAverage Volume: 17,695,198",
+  "source": "batch-cache",
+  "cached_at": "2025-07-28T21:15:02.844712"
+}
