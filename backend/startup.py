@@ -65,6 +65,11 @@ def startup():
         print("\n⚠️  No cache found. Initializing with default data...")
         from init_cache import init_cache
         init_cache()
+        
+        # Also initialize transcript analysis cache
+        from init_transcript_cache import init_transcript_cache
+        init_transcript_cache()
+        
         has_cache = check_cache_status()
     
     if has_cache:

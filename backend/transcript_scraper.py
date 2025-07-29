@@ -116,11 +116,57 @@ class EarningsTranscriptScraper:
         """
         Generate a realistic mock transcript using actual financial data
         """
-        import yfinance as yf
+        # First check if we have cached earnings data
+        from cache_manager import cache_manager
+        cached_summary = cache_manager.get_cached_data(ticker, "earnings_summary", cache_hours=168)
         
-        # Get actual financial data
-        stock = yf.Ticker(ticker)
-        info = stock.info
+        if cached_summary and 'content' in cached_summary:
+            # Parse financial data from cached content
+            content = cached_summary['content']
+            
+            # Extract key metrics from content using regex
+            import re
+            
+            # Extract stock price
+            price_match = re.search(r'Stock Price: \$([0-9,.]+)', content)
+            stock_price = float(price_match.group(1).replace(',', '')) if price_match else 100.0
+            
+            # Extract market cap
+            mcap_match = re.search(r'Market Cap: \$([0-9,]+)', content)
+            market_cap = float(mcap_match.group(1).replace(',', '')) if mcap_match else 1000000000
+            
+            # Extract P/E ratio
+            pe_match = re.search(r'P/E Ratio \(TTM\): ([0-9.]+|N/A)', content)
+            pe_ratio = float(pe_match.group(1)) if pe_match and pe_match.group(1) != 'N/A' else 25.0
+            
+            # Extract revenue if available
+            revenue_match = re.search(r'Revenue \(TTM\): \$([0-9,]+)', content)
+            revenue = float(revenue_match.group(1).replace(',', '')) if revenue_match else market_cap / 20
+            
+            company_name = cached_summary.get('company', ticker)
+            
+            # Use cached data to build transcript
+            info = {
+                'longName': company_name,
+                'totalRevenue': revenue,
+                'revenueGrowth': 0.15,
+                'operatingMargins': 0.20,
+                'grossMargins': 0.35,
+                'profitMargins': 0.15,
+                'trailingEps': stock_price / pe_ratio if pe_ratio > 0 else 1.0,
+                'trailingPE': pe_ratio,
+                'operatingCashflow': revenue * 0.2,
+                'freeCashflow': revenue * 0.15
+            }
+        else:
+            # Fallback to yfinance with rate limiting
+            import yfinance as yf
+            from rate_limiter import yfinance_limiter
+            
+            yfinance_limiter.wait_if_needed()
+            
+            stock = yf.Ticker(ticker)
+            info = stock.info
         
         company_name = info.get('longName', ticker)
         current_date = datetime.now()
